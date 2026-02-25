@@ -1,0 +1,352 @@
+[
+  {
+    "id": "C001",
+    "query": "What is the standard allowance for Universal Credit for a single person over 25?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "The standard allowance for Universal Credit for a single person over 25 is £400.14 per month. (Source: gov.uk/universal-credit, Part: What you'll get)"
+  },
+  {
+    "id": "C002",
+    "query": "Can I get Universal Credit if I have savings over Â£16,000?",
+    "topic": "universal_credit",
+    "difficulty": "medium",
+    "reference_response": "According to the GOV.UK information on Universal Credit (gov.uk/universal-credit, Part: Eligibility, Updated: 2024-10-17T10:58:14+01:00), you can only claim Universal Credit if you have £16,000 or less in money, savings, and investments. \n\nIf you have more than £16,000 in savings, you will not be eligible for Universal Credit. \n\nIt's recommended that you use a benefits calculator to check what benefits you could get, as this will give you a more accurate assessment of your eligibility."
+  },
+  {
+    "id": "C003",
+    "query": "How do I report a change of circumstances to Universal Credit?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "To report a change of circumstances to Universal Credit, you can sign in to your Universal Credit account (as stated on gov.uk/universal-credit, updated 2024-10-17). You should report changes as soon as they happen to ensure you receive the correct amount of Universal Credit. If you're not sure how a change might affect your claim, you can use a benefits calculator or speak with your work coach. Remember to report changes such as finding or finishing a job, having a child, moving in with your partner, or changes to your earnings or savings. If you need help, you can also contact the Universal Credit helpline on 0800 328 5644 (as stated on gov.uk/universal-credit, updated 2024-10-17)."
+  },
+  {
+    "id": "C004",
+    "query": "What happens if I miss my Universal Credit work coach appointment?",
+    "topic": "universal_credit",
+    "difficulty": "medium",
+    "reference_response": "If you miss your Universal Credit work coach appointment, you'll need to provide a good reason for not attending. If your reason is not accepted, you could get a sanction and your Universal Credit payment will be reduced. (Source: gov.uk/universal-credit | Part: Your claimant commitment) \n\nIt's essential to contact the Universal Credit helpline as soon as possible to explain your situation and provide a good reason for missing the appointment. You can call them on 0800 328 5644 (or 0800 328 1744 for Welsh language). \n\nRemember, if you're unable to attend an appointment, it's crucial to notify them in advance and provide a valid reason to avoid any potential sanctions."
+  },
+  {
+    "id": "C005",
+    "query": "Can I get Universal Credit while I'm studying at university?",
+    "topic": "universal_credit",
+    "difficulty": "hard",
+    "reference_response": "You can make a claim for Universal Credit if you're in full-time education and any of the following apply: \n- you live with your partner and they're eligible for Universal Credit\n- you're responsible for a child, either as a single person or as a couple\n- you've reached State Pension age and live with a partner who is below State Pension age\n- you've received a Migration Notice letter telling you to move to Universal Credit\n(Source: gov.uk/universal-credit | Part: Eligibility | Updated: 2024-10-17T10:58:14+01:00)\n\nYou can also claim Universal Credit if you're 21 or under, studying any qualification up to A level or equivalent and do not have parental support. \nAdditionally, you may be able to claim if you are studying part-time or doing a course for which no student loan or finance is available. \nIt's recommended to check the guidance about claiming Universal Credit as a student for more information.\n(Source: gov.uk/universal-credit | Part: Eligibility | Updated: 2024-10-17T10:58:14+01:00)"
+  },
+  {
+    "id": "C006",
+    "query": "What is the housing element of Universal Credit?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "According to the context from GOV.UK (gov.uk/universal-credit | Part: What you'll get), the housing element of Universal Credit is not explicitly stated as a separate element. However, it is mentioned that \"You could get money to help pay your housing costs. The payment can cover rent and some service charges. If you’re a homeowner, you might be able to get a loan to help with interest payments on your mortgage.\" \n\nThis information suggests that the housing costs are taken into account as part of the overall Universal Credit payment, but the exact amount is not specified. To find out more about the housing costs element, you may want to use a benefits calculator or contact your local council for more information. (Source: gov.uk/universal-credit | Part: What you'll get, Updated: 2024-10-17T10:58:14+01:00)"
+  },
+  {
+    "id": "C007",
+    "query": "How long does it take to receive the first Universal Credit payment?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "It usually takes around 5 weeks to get your first Universal Credit payment. (Source: gov.uk/universal-credit | Part: How you're paid) \n\nIf you need money while you wait for your first payment, you can apply for an advance. (Source: gov.uk/universal-credit | Part: How you're paid)"
+  },
+  {
+    "id": "C008",
+    "query": "What is a claimant commitment for Universal Credit?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "A claimant commitment for Universal Credit is an agreement that you need to accept to get Universal Credit payments. It's a record of what you agree to do to prepare for and look for work, or to increase your earnings if you're already working. You'll discuss and agree on your commitment with a work coach, usually at a jobcentre, and you must do everything you agree to in your commitment or your payment could be reduced or stopped. (Source: gov.uk/universal-credit | Part: Your claimant commitment)"
+  },
+  {
+    "id": "C009",
+    "query": "Can couples apply for Universal Credit together?",
+    "topic": "universal_credit",
+    "difficulty": "easy",
+    "reference_response": "Yes, couples can apply for Universal Credit together. According to the GOV.UK page on \"How to claim\" Universal Credit (updated 2024-10-17), if you live with your partner, you will both need to create accounts and link them together when you claim. You cannot claim by yourself. (Source: gov.uk/universal-credit | Part: How to claim) \n\nAdditionally, the \"Eligibility\" page (updated 2024-10-17) states that if you live with your partner, you must make a joint claim for your household, even if your partner is not eligible. (Source: gov.uk/universal-credit | Part: Eligibility)"
+  },
+  {
+    "id": "C010",
+    "query": "What is the benefit cap and how does it affect Universal Credit?",
+    "topic": "universal_credit",
+    "difficulty": "medium",
+    "reference_response": "The benefit cap is a limit on the total amount of benefit you can get, according to the GOV.UK page on benefit cap (updated 2024-10-21). It applies to most people aged 16 or over who have not reached State Pension age.\n\nThe benefit cap affects several benefits, including Universal Credit, as stated on the GOV.UK page on benefits affected by the cap (updated 2024-10-21). However, if you're claiming Universal Credit, the benefit cap might not start for 9 months, depending on your earnings, as explained on the GOV.UK page on when the benefit cap affects your Universal Credit payments (updated 2024-10-21).\n\nTo be eligible for the 9-month \"grace period,\" you must meet certain conditions, including earning less than £846 a month and having earned at least the same amount in each of the 12 months before your earnings went down or you stopped working. You can find more information about the grace period and how it works on the GOV.UK page on when the benefit cap affects your Universal Credit payments (updated 2024-10-21).\n\nIt's also important to note that you might not be affected by the benefit cap if you or your partner get Universal Credit because of a disability or health condition, or if you care for someone with a disability, as stated on the GOV.UK page on when you're not affected by the cap (updated 2024-10-21). Additionally, if you and your partner earn £846 or more a month combined, you will not be affected by the cap.\n\nIf you're affected by the benefit cap, your Universal Credit payment will be reduced, as explained on the GOV.UK page on what you'll get from Universal Credit (updated 2024-10-17). However, after the 9-month grace period ends, the amount of Universal Credit you get will usually go down, unless your circumstances change and you're no longer affected by the benefit cap."
+  },
+  {
+    "id": "C011",
+    "query": "Who is eligible for Housing Benefit?",
+    "topic": "housing_benefit",
+    "difficulty": "easy",
+    "reference_response": "You can get Housing Benefit if you're unemployed, on a low income, or claiming benefits. However, you can only make a new claim for Housing Benefit if you've reached State Pension age or you're in supported, sheltered, or temporary housing. (Source: gov.uk/housing-benefit | Part: Eligibility)\n\nTo be eligible, you must also meet certain conditions. You're not eligible if:\n\n* your savings are over £16,000 (unless you get Guarantee Credit of Pension Credit)\n* you're paying a mortgage on your own home\n* you live in the home of a close relative\n* you're already claiming Universal Credit (unless you're in temporary or supported housing)\n* you live with your partner and they're already claiming Housing Benefit\n* you're a full-time student\n* you're residing in the UK as a European Economic Area (EEA) jobseeker\n* you're an asylum seeker or sponsored to be in the UK\n* you're subject to immigration control and your granted leave states that you cannot claim public funds\n* you're a Crown Tenant\n\nYou can use a benefits calculator to check if you can get Housing Benefit before you apply. (Source: gov.uk/housing-benefit | Part: Eligibility)"
+  },
+  {
+    "id": "C012",
+    "query": "Can I get Housing Benefit if I'm over State Pension age?",
+    "topic": "housing_benefit",
+    "difficulty": "medium",
+    "reference_response": "According to the GOV.UK page on Housing Benefit (gov.uk/housing-benefit), if you're over State Pension age, you can make a new claim for Housing Benefit if you're single. \n\nIf you're over State Pension age and live with your partner, you can make a new claim for Housing Benefit if:\n- you and your partner have both reached State Pension age, \n- one of you has reached State Pension age and started claiming Pension Credit (for you as a couple) before 15 May 2019, or \n- you’re in supported, sheltered or temporary housing.\n\nIt's also stated that if you're over State Pension age and have an existing claim, your existing claim will not be affected if, before 15 May 2019, you were getting Housing Benefit and had reached State Pension age. \n\nTo confirm your eligibility, you can use a benefits calculator or contact your local council. (Source: gov.uk/housing-benefit, updated 2024-10-17)"
+  },
+  {
+    "id": "C013",
+    "query": "How is the amount of Housing Benefit calculated?",
+    "topic": "housing_benefit",
+    "difficulty": "medium",
+    "reference_response": "The amount of Housing Benefit you can get depends on several factors. \n\nIf you rent from a council or social housing, your Housing Benefit is calculated based on your 'eligible rent', which is your actual rent plus any service charges you pay, but not things like heating or water costs. However, if you have a spare bedroom, your Housing Benefit could be reduced by 14% for one spare bedroom or 25% for two or more spare bedrooms (as stated on gov.uk/housing-benefit, updated 2024-10-17).\n\nFor private renters, your eligible rent amount is either your Local Housing Allowance (LHA) rate or your actual rent, whichever is lower. The LHA rate is based on where you live and your household size (gov.uk/housing-benefit, updated 2024-10-17).\n\nIn both cases, your household income, including benefits, pensions, and savings (over £6,000), and your circumstances, such as age or disability, are also taken into account when calculating your Housing Benefit (gov.uk/housing-benefit, updated 2024-10-17).\n\nIt's also important to note that the benefit cap may apply, which limits the total amount of benefit you can get. The benefit cap amounts vary depending on whether you live inside or outside Greater London, and your family situation (gov.uk/benefit-cap, updated 2024-10-21).\n\nTo get a more accurate estimate of your Housing Benefit, you can use a benefits calculator or contact your local council for more information."
+  },
+  {
+    "id": "C014",
+    "query": "What is the spare bedroom tax and how does it affect Housing Benefit?",
+    "topic": "housing_benefit",
+    "difficulty": "medium",
+    "reference_response": "The spare bedroom tax is a reduction in Housing Benefit for people who live in council or social housing and have a spare bedroom. (Source: gov.uk/housing-benefit | Part: What you'll get)\n\nThe reduction is:\n- 14% of the 'eligible rent' for 1 spare bedroom\n- 25% of the 'eligible rent' for 2 or more spare bedrooms\n\nFor example, if your eligible rent is £100 per week and you have 1 spare bedroom, your eligible rent would be reduced by 14% to £86 per week. Your Housing Benefit would then be calculated using the reduced figure of £86 per week.\n\nHowever, there are some exceptions. You can have a spare bedroom for certain situations, such as for an approved foster carer or for an overnight carer. Additionally, rooms used by students or members of the armed forces who are away and intend to return home will not be counted as 'spare'. (Source: gov.uk/housing-benefit | Part: What you'll get)"
+  },
+  {
+    "id": "C015",
+    "query": "Can I get Housing Benefit if I rent from a private landlord?",
+    "topic": "housing_benefit",
+    "difficulty": "easy",
+    "reference_response": "According to the GOV.UK page on Housing Benefit (gov.uk/housing-benefit), you can get Housing Benefit if you rent from a private landlord. However, the amount you get will depend on your 'eligible' rent, which is the lower figure of your actual rent or your Local Housing Allowance (LHA) rate. \n\nTo be eligible, you'll need to provide evidence to support your claim, including your tenancy agreement or a letter from your landlord, as well as proof of your income and savings (Source: gov.uk/housing-benefit | Part: Supporting your claim). \n\nYou can use a benefits calculator to check if you're eligible and how much you might get. If you're not eligible for Housing Benefit, you might be able to claim Universal Credit instead (Source: gov.uk/housing-benefit | Part: Eligibility). \n\nIt's also important to note that if you have savings over £16,000, you usually won't be eligible for Housing Benefit, unless you get Guarantee Credit of Pension Credit (Source: gov.uk/housing-benefit | Part: Eligibility). \n\nI recommend checking the GOV.UK website or contacting your local council for more information on how to claim and what evidence you need to provide."
+  },
+  {
+    "id": "C016",
+    "query": "How do I apply for council housing?",
+    "topic": "housing_benefit",
+    "difficulty": "easy",
+    "reference_response": "To apply for council housing, you'll need to contact your local council. You can apply if you're 18 or over (some councils let you apply if you're 16 or over). You may be able to apply even if you don't live in the area. \n\nYou'll usually have to join a waiting list, and the council will decide who gets offered housing based on a 'points' or 'banding' system. This system is based on housing need, so you're more likely to be offered housing if you're homeless, live in cramped conditions, or have a medical condition made worse by your current home.\n\nYou can find more information on the application process on the GOV.UK website, specifically on the page about council housing (gov.uk/council-housing). It's also a good idea to ask your council about their specific rules and how long you're likely to have to wait. (Source: gov.uk/council-housing | Part: Apply for a council home)"
+  },
+  {
+    "id": "C017",
+    "query": "What is the Right to Buy scheme?",
+    "topic": "housing_benefit",
+    "difficulty": "easy",
+    "reference_response": "The Right to Buy scheme is a program that allows most council tenants to buy their council home at a discount. (Source: gov.uk/right-to-buy-buying-your-council-home, Part: Overview)\n\nTo be eligible, you must meet certain criteria, including:\n\n* The property must be your only or main home\n* It must be self-contained\n* You must be a secure tenant\n* You must have had a public sector landlord (such as a council, housing association, or NHS trust) for at least 3 years (it doesn't have to be 3 years in a row)\n\nIf you're eligible, you can apply to buy your council home at a discount, which is based on the type of property, its value, where you live, and how long you've been a tenant with a public sector landlord. (Source: gov.uk/right-to-buy-buying-your-council-home, Part: Discounts)\n\nYou can find more information and get help with your application from your landlord, the Right to Buy summary booklet, the Right to Buy guidance, Money Helper, Citizens Advice, or your local Law Centre. (Source: gov.uk/right-to-buy-buying-your-council-home, Part: Help and advice)"
+  },
+  {
+    "id": "C018",
+    "query": "How long is the council housing waiting list typically?",
+    "topic": "housing_benefit",
+    "difficulty": "medium",
+    "reference_response": "According to the GOV.UK page on council housing (gov.uk/council-housing | Part: Apply for a council home | Updated: 2019-05-31T11:33:05+01:00), the length of the council housing waiting list varies. It's stated that \"You’ll usually have to join a waiting list and you’re not guaranteed to get a property. Ask your council how long you’re likely to have to wait.\" \n\nThis means that the waiting time is not fixed and can differ depending on the council. To get a more accurate estimate, it's recommended to contact your local council directly. I don't have enough information to provide a specific waiting time, as it's not specified in the context."
+  },
+  {
+    "id": "C019",
+    "query": "What is Local Housing Allowance?",
+    "topic": "housing_benefit",
+    "difficulty": "medium",
+    "reference_response": "According to the GOV.UK page on Housing Benefit (gov.uk/housing-benefit), if you rent privately, your eligible rent amount is either your Local Housing Allowance (LHA) rate or your actual rent, whichever is lower. The LHA rate is based on where you live and your household size, and it determines how many bedrooms you're eligible for. (Source: gov.uk/housing-benefit | Part: What you'll get)"
+  },
+  {
+    "id": "C020",
+    "query": "Can I get Housing Benefit and Universal Credit at the same time?",
+    "topic": "housing_benefit",
+    "difficulty": "hard",
+    "reference_response": "According to the GOV.UK information on Housing Benefit (gov.uk/housing-benefit) and Universal Credit (gov.uk/universal-credit), you can't usually get Housing Benefit and Universal Credit at the same time. \n\nIt's stated on the Housing Benefit page that \"you’re already claiming Universal Credit (unless you’re in temporary or supported housing)\" is one of the situations where you won't get Housing Benefit. \n\nAdditionally, the Universal Credit page (gov.uk/universal-credit) explains that if you claim Universal Credit, you'll stop getting other benefits like Housing Benefit. However, there's an exception if you're in temporary or supported housing, in which case you might be able to get Housing Benefit. \n\nIt's recommended to use a benefits calculator to check what benefits you could get, as stated on the Universal Credit eligibility page (gov.uk/universal-credit)."
+  },
+  {
+    "id": "C021",
+    "query": "How do I find out my council tax band?",
+    "topic": "council_tax",
+    "difficulty": "easy",
+    "reference_response": "To find out your council tax band, you'll need to know the valuation band for your home in England and Wales or in Scotland. You can check your council tax bill, as it will tell you how much you have to pay for the year and which band your property is in. (Source: gov.uk/council-tax | Part: Paying your bill)\n\nIf you're unsure or want to challenge your council tax band, you can contact the Valuation Office Agency (VOA) for more information. They can help you determine if changes to your property will affect your council tax band. (Source: gov.uk/council-tax | Part: Working out your Council Tax)\n\nAdditionally, you can check with your local council to find out the valuation band for your property and how much they charge for that band. (Source: gov.uk/council-tax | Part: Working out your Council Tax)"
+  },
+  {
+    "id": "C022",
+    "query": "How do I appeal my council tax band?",
+    "topic": "council_tax",
+    "difficulty": "medium",
+    "reference_response": "To appeal your Council Tax band, you should contact the Valuation Office Agency (VOA) (Source: gov.uk/council-tax | Part: Working out your Council Tax | Updated: 2025-02-05T14:40:44+00:00). They will be able to advise you on whether changes to your property will affect your Council Tax band. \n\nIf you think your home is in the wrong valuation band, you can challenge it. However, the context does not provide detailed information on the appeal process itself. For more information on how to appeal, you may want to visit the GOV.UK website or contact the Valuation Office Agency directly."
+  },
+  {
+    "id": "C023",
+    "query": "Can I get a council tax reduction if I'm on a low income?",
+    "topic": "council_tax",
+    "difficulty": "easy",
+    "reference_response": "You may be able to get a Council Tax Reduction (this used to be called Council Tax Benefit) if you're on a low income or get benefits. To find out if you're eligible, you can use a benefits calculator or check with your local council. The amount of reduction you can get depends on your household income, including benefits, pensions, and savings (over £6,000), as well as your circumstances. (Source: gov.uk/council-tax | Part: Working out your Council Tax)"
+  },
+  {
+    "id": "C024",
+    "query": "Do students have to pay council tax?",
+    "topic": "council_tax",
+    "difficulty": "easy",
+    "reference_response": "According to the GOV.UK page on Council Tax (specifically, the part on \"Discounts for full-time students\" and \"Who has to pay\"), students do not have to pay Council Tax if everyone in their household is a full-time student. \n\nTo count as a full-time student, your course must last at least 1 year and involve at least 21 hours of study per week. If you're under 20 and studying for a qualification up to A level, your course must last at least 3 months and involve at least 12 hours of study per week.\n\nHowever, if there's someone in your household who's not a full-time student, you might still get a discount on your Council Tax bill. You're considered 'disregarded' if you're a full-time student, and your household might get a 25% or 50% discount depending on the circumstances.\n\nIt's essential to contact your local council to apply for a discount or exemption, even if you think you're disregarded. They will help you determine the best course of action. (Source: gov.uk/council-tax, parts \"Discounts for full-time students\" and \"Who has to pay\", updated 2025-02-05T14:40:44+00:00)"
+  },
+  {
+    "id": "C025",
+    "query": "What happens if I don't pay my council tax?",
+    "topic": "council_tax",
+    "difficulty": "medium",
+    "reference_response": "If you don't pay your Council Tax, the council can take action to reclaim any debts you owe (Source: gov.uk/council-tax | Part: Paying your bill | Updated: 2025-02-05T14:40:44+00:00). It's essential to contact your local council immediately if you're having trouble paying, as they can help you, for example, by spreading your payments over 12 months instead of 10. \n\nAdditionally, if you're having trouble paying, you may be able to get a discount or exemption, depending on your situation (Source: gov.uk/council-tax | Part: Who has to pay | Updated: 2025-02-05T14:40:44+00:00). You can also get help with Council Tax Reduction (formerly Council Tax Benefit) if you're on a low income or receive benefits (Source: gov.uk/council-tax | Part: Working out your Council Tax | Updated: 2025-02-05T14:40:44+00:00).\n\nIt's crucial to address any payment issues promptly to avoid further action. If you're unsure about your Council Tax bill or need help with payments, contact your local council for assistance."
+  },
+  {
+    "id": "C026",
+    "query": "Can I get a single person discount on council tax?",
+    "topic": "council_tax",
+    "difficulty": "easy",
+    "reference_response": "According to the GOV.UK information on Council Tax (source: gov.uk/council-tax | Part: Who has to pay | Updated: 2025-02-05T14:40:44+00:00), you can get a 25% discount on your Council Tax bill if you pay Council Tax and live on your own. This is often referred to as a single person discount. \n\nTo qualify, you must be the only adult living in the property. If you're unsure about whether you can get a discount, you should contact your local council. Remember to apply for the discount, as it's not automatically given. \n\nAdditionally, some people are 'disregarded' when working out how many people live in a property, which might also affect your eligibility for a discount. These include people under 18, full-time students, and those who are severely mentally impaired, among others. \n\nPlease note that you need to apply for a Council Tax discount or exemption, even if you think you might be eligible. If you get a discount by mistake, you must contact your local council to avoid a potential fine."
+  },
+  {
+    "id": "C027",
+    "query": "How do I apply for council tax reduction?",
+    "topic": "council_tax",
+    "difficulty": "easy",
+    "reference_response": "To apply for a Council Tax reduction, you'll need to contact your local council. According to the GOV.UK page on 'Working out your Council Tax' (updated 2025-02-05T14:40:44+00:00), you may be able to get Council Tax Reduction if you're on a low income or get benefits. \n\nYou can check with your local council to see if you're eligible and to find out how to apply. They will be able to guide you through the process and let you know what information you need to provide. \n\nAdditionally, the GOV.UK page on 'Who has to pay' (updated 2025-02-05T14:40:44+00:00) mentions that you need to apply for a Council Tax discount or exemption, even if you're disregarded. Your local council will be able to provide more information on the application process and what discounts or exemptions you may be eligible for. \n\nIt's also worth noting that if you're having trouble paying your Council Tax, you should contact your local council immediately, as they can help you with payment options, such as spreading your payments over 12 months instead of 10, as mentioned on the GOV.UK page 'Paying your bill' (updated 2025-02-05T14:40:44+00:00)."
+  },
+  {
+    "id": "C028",
+    "query": "Is council tax different for empty properties?",
+    "topic": "council_tax",
+    "difficulty": "medium",
+    "reference_response": "Yes, council tax is different for empty properties. According to the GOV.UK page on council tax (gov.uk/council-tax, Part: Second homes and empty properties), if your home has been empty for at least one year, you can be charged additional Council Tax, also known as the empty home premium. The amount you pay will depend on how long the property has been empty, and you can be charged up to 4 times your normal Council Tax bill if your home has been empty for at least 10 years. However, there are some exceptions, such as if the empty property is an annex or if you're in the armed forces and have to move into armed forces accommodation as part of your work. You should contact your local council to ask about any discounts or exemptions you might be eligible for. (Source: gov.uk/council-tax, Part: Second homes and empty properties, Updated: 2025-02-05T14:40:44+00:00)"
+  },
+  {
+    "id": "C029",
+    "query": "What is Personal Independence Payment (PIP)?",
+    "topic": "disability_benefits",
+    "difficulty": "easy",
+    "reference_response": "Personal Independence Payment (PIP) is a benefit that can help with extra living costs if you have a long-term physical or mental health condition or disability, and you have difficulty doing certain everyday tasks or getting around because of your condition. (Source: gov.uk/pip, Part: What PIP is for)\n\nPIP has two parts: a daily living part, which helps with everyday tasks like preparing food, eating and drinking, and managing your medicines, and a mobility part, which helps with getting around. The amount you get depends on how difficult you find these tasks. (Source: gov.uk/pip, Part: What PIP is for and Part: How much you’ll get)\n\nYou can get PIP even if you're working, have savings, or are getting most other benefits. (Source: gov.uk/pip, Part: What PIP is for)"
+  },
+  {
+    "id": "C030",
+    "query": "What's the difference between PIP and DLA?",
+    "topic": "disability_benefits",
+    "difficulty": "medium",
+    "reference_response": "The main difference between Personal Independence Payment (PIP) and Disability Living Allowance (DLA) is the age of the person claiming the benefit. \n\nAccording to the context from GOV.UK (gov.uk/pip and gov.uk/disability-living-allowance-children), DLA is for children under 16, while PIP is for people aged 16 or over. \n\nWhen a child turns 16, they will need to apply for PIP instead of DLA. You can find more information about this on the GOV.UK page about Disability Living Allowance for children (gov.uk/disability-living-allowance-children). \n\nAdditionally, DLA is being replaced by PIP for most adults, but some people, such as those born on or before 8 April 1948, will keep getting DLA. You can read more about PIP on the GOV.UK page about Personal Independence Payment (gov.uk/pip)."
+  },
+  {
+    "id": "C031",
+    "query": "How do I apply for Attendance Allowance?",
+    "topic": "disability_benefits",
+    "difficulty": "easy",
+    "reference_response": "To apply for Attendance Allowance, you can either apply online or by post. \n\nIf you want to apply online, you'll need your National Insurance number, address and contact details, details of your disability or health condition, and details of your GP surgery or medical centre (gov.uk/attendance-allowance, Part: How to claim). \n\nIf you prefer to apply by post, you can print and send the Attendance Allowance claim form or contact the helpline to request a claim form. The helpline number is 0800 731 0122, and it's available from Monday to Friday, 8am to 6pm (gov.uk/attendance-allowance, Part: How to claim). \n\nYou should send the completed form to: Freepost, DWP Attendance Allowance. Remember not to write anything except the freepost address on the envelope, and you won't need a postcode or a stamp.\n\nIf you're nearing the end of life, there's a different way to claim, and you might be able to get Attendance Allowance more quickly and at a higher rate (gov.uk/attendance-allowance, Part: Claiming Attendance Allowance if you’re nearing the end of life). \n\nPlease note that if you live in Scotland, you'll need to apply for Pension Age Disability Payment instead of Attendance Allowance (gov.uk/attendance-allowance, Part: Overview). \n\nIt's also important to check the eligibility criteria before applying, which includes being at State Pension age, having a disability or health condition that requires help with caring for yourself, and meeting the habitual residence requirements (gov.uk/attendance-allowance, Part: Eligibility)."
+  },
+  {
+    "id": "C032",
+    "query": "What are the daily living and mobility components of PIP?",
+    "topic": "disability_benefits",
+    "difficulty": "medium",
+    "reference_response": "The daily living and mobility components of Personal Independence Payment (PIP) are two parts that make up the benefit. \n\nThe daily living part is for people who need help with everyday tasks, such as:\n- preparing food\n- eating and drinking\n- managing medicines or treatments\n- washing and bathing\n- using the toilet\n- dressing and undressing\n- reading\n- managing money\n- socialising and being around other people\n- talking, listening and understanding\n\nThe mobility part is for people who need help with getting around, such as:\n- working out a route and following it\n- physically moving around\n- leaving your home\n\nYou might get one or both parts, depending on your needs. The amount you get for each part depends on how difficult you find these tasks. (Source: gov.uk/pip, Part: What PIP is for)"
+  },
+  {
+    "id": "C033",
+    "query": "Can I get PIP if I have a mental health condition?",
+    "topic": "disability_benefits",
+    "difficulty": "medium",
+    "reference_response": "You can get Personal Independence Payment (PIP) if you have a mental health condition, as long as you meet the eligibility criteria. According to the GOV.UK information on PIP (gov.uk/pip, Part: Eligibility), you can get PIP if you have a \"long-term physical or mental health condition or disability\" and you have difficulty doing certain everyday tasks or getting around. \n\nAdditionally, the information on \"What PIP is for\" (gov.uk/pip, Part: What PIP is for) states that PIP can help with extra living costs if you have a \"long-term physical or mental health condition or disability\" and difficulty doing certain everyday tasks or getting around. \n\nIt's also mentioned that you might get the mobility part of PIP if you have difficulty getting around because of a \"cognitive or mental health condition, like anxiety\" (gov.uk/pip, Part: What PIP is for). \n\nTo apply for PIP, you can start your claim by phone or post, and you'll need to provide information about how your condition affects you (gov.uk/pip, Part: How to claim). \n\nRemember to check the eligibility criteria and the application process to see if you can get PIP. You can also get help from Citizens Advice or use the easy read guides on the GOV.UK website."
+  },
+  {
+    "id": "C034",
+    "query": "How often is PIP reviewed?",
+    "topic": "disability_benefits",
+    "difficulty": "easy",
+    "reference_response": "According to the GOV.UK information on PIP (Source: gov.uk/pip | Part: If your PIP claim is reviewed | Updated: 2024-11-06T10:53:35+00:00), the frequency of PIP reviews is not fixed and can vary depending on individual circumstances. \n\nYour PIP award will tell you when your claim will end and if it will be reviewed. The length of your award can be between 9 months and 10 years, depending on whether your needs are likely to change. You will receive a letter when your review is due, and you will need to fill in a form and return it within 1 month. \n\nIf you need more time, you can contact the PIP enquiry line. It's essential to respond to the review to ensure your PIP payments continue. If you have any changes in your condition or circumstances, you should report them to the PIP enquiry line straight away, as this may affect your award."
+  },
+  {
+    "id": "C035",
+    "query": "At what age does DLA stop and PIP begin?",
+    "topic": "disability_benefits",
+    "difficulty": "medium",
+    "reference_response": "According to the GOV.UK information (Source: gov.uk/disability-living-allowance-children | Part: When your child turns 16), your child will need to apply for Personal Independence Payment (PIP) when they turn 16. This means that DLA stops and PIP begins at the age of 16. (Source: gov.uk/disability-living-allowance-children | Part: When your child turns 16, Updated: 2015-01-12T14:53:39+00:00)"
+  },
+  {
+    "id": "C036",
+    "query": "Can I get Attendance Allowance if I'm already getting PIP?",
+    "topic": "disability_benefits",
+    "difficulty": "hard",
+    "reference_response": null
+  },
+  {
+    "id": "C037",
+    "query": "What help is available if I'm about to be evicted?",
+    "topic": "homelessness",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C038",
+    "query": "What does the council have to do if I'm homeless?",
+    "topic": "homelessness",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C039",
+    "query": "Can the council put me in temporary accommodation?",
+    "topic": "homelessness",
+    "difficulty": "easy",
+    "reference_response": null
+  },
+  {
+    "id": "C040",
+    "query": "What is priority need for homelessness?",
+    "topic": "homelessness",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C041",
+    "query": "Can I get emergency housing if I'm sleeping rough?",
+    "topic": "homelessness",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C042",
+    "query": "What support is there for young people who are homeless?",
+    "topic": "homelessness",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C043",
+    "query": "When can I start getting my State Pension?",
+    "topic": "pension",
+    "difficulty": "easy",
+    "reference_response": null
+  },
+  {
+    "id": "C044",
+    "query": "How much is the full new State Pension?",
+    "topic": "pension",
+    "difficulty": "easy",
+    "reference_response": null
+  },
+  {
+    "id": "C045",
+    "query": "What is Pension Credit and who can get it?",
+    "topic": "pension",
+    "difficulty": "easy",
+    "reference_response": null
+  },
+  {
+    "id": "C046",
+    "query": "Can I defer my State Pension?",
+    "topic": "pension",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C047",
+    "query": "How many qualifying years do I need for a full State Pension?",
+    "topic": "pension",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C048",
+    "query": "Can I get Pension Credit if I have savings?",
+    "topic": "pension",
+    "difficulty": "medium",
+    "reference_response": null
+  },
+  {
+    "id": "C049",
+    "query": "I'm disabled, homeless, and over 65 â what benefits can I get?",
+    "topic": "cross_topic",
+    "difficulty": "hard",
+    "reference_response": null
+  },
+  {
+    "id": "C050",
+    "query": "I'm a single parent on Universal Credit facing eviction â what help is available?",
+    "topic": "cross_topic",
+    "difficulty": "hard",
+    "reference_response": null
+  }
+]

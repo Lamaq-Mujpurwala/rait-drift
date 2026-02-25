@@ -1,0 +1,530 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/if-youre-homeless-at-risk-of-homelessness",
+  "content_id": "b65f5feb-13d0-4944-8903-5431c3a1ba63",
+  "description": "Your council must help if you’re legally homeless or will become homeless within 8 weeks. Help may include advice, emergency housing or longer-term housing.",
+  "details": {
+    "body": "<p>In England, your council must help if you’re legally homeless or will become homeless within the next 8 weeks.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>You can also get <a rel=\"external\" href=\"https://www.mygov.scot/if-youre-homeless\">help if you’re homeless in Scotland</a>, <a rel=\"external\" href=\"https://gov.wales/support-if-you-are-homeless-or-about-become-homeless\">help if you’re homeless in Wales</a> or <a rel=\"external\" href=\"https://www.nihe.gov.uk/Housing-Help/Homelessness\">help if you’re homeless in Northern Ireland</a>.</p>\n</div>\n\n<p>You may be legally homeless if:</p>\n\n<ul>\n  <li>you’ve no legal right to live in accommodation anywhere in the world</li>\n  <li>you cannot get into your home, for example your landlord has locked you out</li>\n  <li>it’s not reasonable to stay in your home, for example you’re at risk of violence or abuse</li>\n  <li>you’re forced to live apart from your family or people you normally live with because there’s no suitable accommodation for you</li>\n  <li>you’re living in very poor conditions such as overcrowding</li>\n</ul>\n\n<h2 id=\"find-your-council\">Find your council</h2>\n\n<p><a href=\"/homelessness-help-from-council\">Find your council to get help and advice</a>.</p>\n\n<h2 id=\"what-help-you-can-get\">What help you can get</h2>\n\n<p>There are different types of support your council could offer you. For example, they may offer you advice, emergency housing, support to find longer-term housing or help so you can stay in your home.</p>\n\n<p>The type of help you can get depends on:</p>\n\n<ul>\n  <li>your eligibility for assistance</li>\n  <li>if you’re in priority need</li>\n  <li>what caused you to become homeless</li>\n</ul>\n\n<h3 id=\"eligibility-for-assistance\">Eligibility for assistance</h3>\n\n<p>If you live permanently in the UK, you’ll usually be eligible for assistance.</p>\n\n<p>If you’re from abroad, you may not be eligible because of your immigration status. For more information, check <a rel=\"external\" href=\"http://england.shelter.org.uk/housing_advice/homelessness/rules/immigration_and_residence_restrictions_on_homelessness_help\">Shelter’s guide on housing rights</a>.</p>\n\n<h3 id=\"priority-need\">Priority need</h3>\n\n<p>You may be in priority need if any of the following are true:</p>\n\n<ul>\n  <li>you or someone you live with is pregnant</li>\n  <li>‘dependent children’ live with you (under 16s or under 19s if they’re studying full-time)</li>\n  <li>you’re 16 or 17</li>\n  <li>you’re under 21 and were in care between the ages of 16 and 18</li>\n  <li>\n<a rel=\"external\" href=\"https://england.shelter.org.uk/housing_advice/homelessness/rules/priority_need\">you’re assessed by the council as vulnerable</a>, for example as a result of old age, disability or domestic abuse</li>\n  <li>you’re homeless after a flood, fire or other disaster</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>You may also be entitled to <a href=\"/housing-benefit\">Housing Benefit</a> or <a href=\"/housing-and-universal-credit\">Universal Credit</a> to help with your housing costs.</p>\n</div>\n\n<h2 id=\"get-advice-and-support\">Get advice and support</h2>\n\n<p>You can get further advice and support from <a rel=\"external\" href=\"https://england.shelter.org.uk/housing_advice/homelessness\">Shelter England</a>.</p>\n\n<h3 id=\"legal-advice\">Legal advice</h3>\n\n<p>You may be able to get free legal advice for housing problems including if you’re being evicted or you’ve been made homeless. <a href=\"/check-legal-aid\">Check if you can get legal aid</a>.</p>\n\n<p>You can get advice from Civil Legal Advice, if you’re eligible, or you can <a rel=\"external\" href=\"http://find-legal-advice.justice.gov.uk\">search for a legal aid adviser</a>.</p>\n",
+    "external_related_links": []
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-01-26T12:58:23+00:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/if-youre-homeless-at-risk-of-homelessness",
+        "api_url": "https://www.gov.uk/api/content/if-youre-homeless-at-risk-of-homelessness",
+        "base_path": "/if-youre-homeless-at-risk-of-homelessness",
+        "content_id": "b65f5feb-13d0-4944-8903-5431c3a1ba63",
+        "document_type": "answer",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-10-17T14:22:35Z",
+        "schema_name": "answer",
+        "title": "Help if you’re homeless or about to become homeless",
+        "web_url": "https://www.gov.uk/if-youre-homeless-at-risk-of-homelessness",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+        "base_path": "/browse/housing-local-services/repossessions-evictions",
+        "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+        "description": "Includes help with homelessness, evictions and squatting ",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2023-08-29T14:51:54Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Repossessions, homelessness, emergency housing and evictions",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/homelessness-help-from-council",
+        "api_url": "https://www.gov.uk/api/content/homelessness-help-from-council",
+        "base_path": "/homelessness-help-from-council",
+        "content_id": "eed9073a-9870-4767-bfb5-2524a7c868b6",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-12-02T10:39:10Z",
+        "schema_name": "local_transaction",
+        "title": "Help from your council if you’re homeless or at risk of homelessness",
+        "web_url": "https://www.gov.uk/homelessness-help-from-council",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-council-housing",
+        "api_url": "https://www.gov.uk/api/content/apply-for-council-housing",
+        "base_path": "/apply-for-council-housing",
+        "content_id": "dc7e2510-798a-4b3b-a575-3242cf8a1303",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+              "base_path": "/browse/housing-local-services/council-housing-association",
+              "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+              "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:43:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council housing and housing associations",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2019-10-02T12:53:39Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for council housing",
+        "web_url": "https://www.gov.uk/apply-for-council-housing",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/your-rights-to-housing-if-youre-under-18",
+        "api_url": "https://www.gov.uk/api/content/your-rights-to-housing-if-youre-under-18",
+        "base_path": "/your-rights-to-housing-if-youre-under-18",
+        "content_id": "d7e8e124-dcea-4673-8603-448288aab078",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+              "base_path": "/browse/housing-local-services/council-housing-association",
+              "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+              "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:43:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council housing and housing associations",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-01-27T12:05:08Z",
+        "schema_name": "answer",
+        "title": "Your rights to housing if you're under 18",
+        "web_url": "https://www.gov.uk/your-rights-to-housing-if-youre-under-18",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/council-housing-association-evictions",
+        "api_url": "https://www.gov.uk/api/content/council-housing-association-evictions",
+        "base_path": "/council-housing-association-evictions",
+        "content_id": "c3b5e889-a5f7-4574-a71a-4b5d3799b594",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-12T09:58:02Z",
+        "schema_name": "guide",
+        "title": "Council and housing association evictions",
+        "web_url": "https://www.gov.uk/council-housing-association-evictions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/private-renting-evictions",
+        "api_url": "https://www.gov.uk/api/content/private-renting-evictions",
+        "base_path": "/private-renting-evictions",
+        "content_id": "8cd2adc4-b8f6-4728-83cc-6dfa9a78c2f5",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-10-23T09:52:48Z",
+        "schema_name": "guide",
+        "title": "Private renting for tenants: evictions in England",
+        "web_url": "https://www.gov.uk/private-renting-evictions",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1419",
+        "api_path": "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+        "base_path": "/government/organisations/ministry-of-housing-communities-local-government",
+        "content_id": "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+        "details": {
+          "acronym": "MHCLG",
+          "brand": "ministry-of-housing-communities-local-government",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Ministry of Housing,<br/>Communities &amp; <br/>Local Government"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Ministry of Housing, Communities and Local Government",
+        "web_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+        "base_path": "/browse/housing-local-services/repossessions-evictions",
+        "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+        "description": "Includes help with homelessness, evictions and squatting ",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/housing-local-services",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+              "base_path": "/browse/housing-local-services",
+              "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+              "description": "Owning or renting and council services",
+              "document_type": "mainstream_browse_page",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Housing and local services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2023-08-29T14:51:54Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Repossessions, homelessness, emergency housing and evictions",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "government-digital-service",
+          "default_news_image": null,
+          "logo": {
+            "crest": "gds",
+            "formatted_title": "Government<br/>Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/housing-local-and-community/repossessions-evictions",
+        "api_url": "https://www.gov.uk/api/content/housing-local-and-community/repossessions-evictions",
+        "base_path": "/housing-local-and-community/repossessions-evictions",
+        "content_id": "733034e3-37a8-4a2e-9c6b-cf4508eeade0",
+        "details": {
+          "internal_name": "Repossessions, emergency housing and evictions [M] (level 3, housing theme)",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/housing-local-and-community/housing-and-communities",
+              "api_url": "https://www.gov.uk/api/content/housing-local-and-community/housing-and-communities",
+              "base_path": "/housing-local-and-community/housing-and-communities",
+              "content_id": "4ad66168-274d-4d83-9195-f4ab0ccc97cb",
+              "description": "",
+              "details": {
+                "internal_name": "Housing and communities (level 2)",
+                "notes_for_editors": "",
+                "url_override": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/housing-local-and-community",
+                    "api_url": "https://www.gov.uk/api/content/housing-local-and-community",
+                    "base_path": "/housing-local-and-community",
+                    "content_id": "4794066e-e3cc-425e-8cc4-e7ff3edb4c39",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Housing, local and community",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2026-02-18T13:00:23Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:32:02Z",
+                    "schema_name": "taxon",
+                    "title": "Housing, local and community",
+                    "web_url": "https://www.gov.uk/housing-local-and-community",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2022-02-14T14:24:18Z",
+              "schema_name": "taxon",
+              "title": "Housing and communities",
+              "web_url": "https://www.gov.uk/housing-local-and-community/housing-and-communities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:54:42Z",
+        "schema_name": "taxon",
+        "title": "Repossessions, emergency housing and evictions",
+        "web_url": "https://www.gov.uk/housing-local-and-community/repossessions-evictions",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2024-10-17T15:22:35+01:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1744029267.390-10.13.31.127-705",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Help if you’re homeless or about to become homeless",
+  "updated_at": "2026-02-23T17:08:08+00:00",
+  "withdrawn_notice": {}
+}

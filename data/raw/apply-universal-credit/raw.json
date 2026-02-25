@@ -1,0 +1,30 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-universal-credit",
+  "content_id": null,
+  "description": null,
+  "details": {},
+  "document_type": "redirect",
+  "first_published_at": "2013-04-29T08:59:31+01:00",
+  "links": {},
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-05-13T17:38:47+01:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": null,
+  "publishing_scheduled_at": null,
+  "redirects": [
+    {
+      "destination": "/universal-credit/how-to-claim",
+      "path": "/apply-universal-credit",
+      "segments_mode": "ignore",
+      "type": "prefix"
+    }
+  ],
+  "rendering_app": null,
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "redirect",
+  "title": null,
+  "updated_at": "2026-02-05T13:41:13+00:00",
+  "withdrawn_notice": {}
+}

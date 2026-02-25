@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environment secrets
+.env
+
+# Virtual environments
+.venv
+
+# Hypothesis testing cache
+.hypothesis/
+
+# Local data (SQLite, raw HTML, results)
+data/logs/*.db
+data/raw/*.html
+data/results/*.json
+data/processed/ingestion_summary.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+uv.lock
+
+images/
+docs/*.pdf
+docs/*.pdf

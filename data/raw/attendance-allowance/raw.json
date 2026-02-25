@@ -1,0 +1,1269 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/attendance-allowance",
+  "content_id": "916b042a-ee5c-420b-8481-17c74e7bb456",
+  "description": "Attendance Allowance helps with extra costs if you're State Pension age and disabled: rates, eligibility, claim form AA1, claiming due to a terminal illness.",
+  "details": {
+    "external_related_links": [
+      {
+        "title": "Claiming benefits if you live, move or travel abroad",
+        "url": "https://www.gov.uk/claim-benefits-abroad"
+      }
+    ],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>Attendance Allowance helps with extra costs if you have a disability or health condition severe enough that you need someone to help look after you.</p>\n\n<p>There’s a different way to claim <a href=\"/attendance-allowance/claiming-end-of-life\">if you’re nearing the end of life</a> (for example, because you have a life-limiting illness).</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>This guide is also available in <a href=\"/lwfans-gweini\">Welsh (Cymraeg)</a>, <a rel=\"external\" href=\"https://www.youtube.com/watch?v=oPa1oZerI7M&amp;list=PLC0aQWFFHARyLkPRCYagSnWmZMcuTB68m\">British Sign Language (BSL)</a> and <a href=\"/government/publications/easy-read-attendance-allowance\">Easy Read format</a>.</p>\n</div>\n\n<p>It’s paid at <a href=\"/attendance-allowance/what-youll-get\">2 different rates</a> and how much you get depends on the level of care that you need because of your disability or health condition.</p>\n\n<p>You could get £73.90 or £110.40 a week to help with personal support if both of the following apply:</p>\n\n<ul>\n  <li>you have a physical disability, a mental disability, or a health condition</li>\n  <li>you’re <a href=\"/state-pension-age\">State Pension age</a> or older</li>\n</ul>\n\n<p>It does not cover mobility needs.</p>\n\n<p>You could get extra Pension Credit, Housing Benefit or Council Tax Reduction if you get Attendance Allowance.</p>\n\n<p>You do not have to have someone caring for you in order to claim.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>If you do have a carer, they could get <a href=\"/carers-allowance\">Carer’s Allowance</a> if you have substantial caring needs.</p>\n</div>\n\n<h2 id=\"if-you-live-in-scotland\">If you live in Scotland</h2>\n\n<p>You will need to apply for <a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment\">Pension Age Disability Payment</a> instead of Attendance Allowance.</p>\n\n<h3 id=\"if-you-move-from-england-or-wales-to-scotland\">If you move from England or Wales to Scotland</h3>\n\n<p>If you get Attendance Allowance and move from England or Wales to Scotland, you must:</p>\n\n<ul>\n  <li>\n<a href=\"/attendance-allowance/report-change-in-circumstances\">tell <abbr title=\"Department for Work and Pensions\">DWP</abbr></a> that you have moved</li>\n  <li>make a new claim for <a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment\">Pension Age Disability Payment</a> </li>\n</ul>\n\n<p>You must also <a href=\"/attendance-allowance/report-change-in-circumstances\">tell <abbr title=\"Department for Work and Pensions\">DWP</abbr></a> and <a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment\">apply for Pension Age Disability Payment</a> if either:</p>\n\n<ul>\n  <li>you’ve applied for Attendance Allowance and you’re waiting for a decision</li>\n  <li>you’ve challenged a decision and are waiting to hear if it’s changed</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Your Attendance Allowance will stop 13 weeks after you move – apply for Pension Age Disability Payment as soon as possible after moving or your payments could be affected.</p>\n</div>\n\n<h3 id=\"if-you-move-from-scotland-to-england-or-wales\">If you move from Scotland to England or Wales</h3>\n\n<p>If you get Pension Age Disability Payment, you must:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment-changes\">report your move to Social Security Scotland</a></li>\n  <li><a href=\"/attendance-allowance/how-to-claim\">apply for Attendance Allowance</a></li>\n</ul>\n\n<p>Social Security Scotland will tell you when your Pension Age Disability Payment will stop.  </p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Apply for Attendance Allowance as soon as you move to England or Wales. If you do not, your payments could be affected.</p>\n</div>\n\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>Attendance Allowance is paid weekly at 2 different rates - the one you get depends on the level of help you need.</p>\n\n<p>Attendance Allowance is not means-tested - what you earn or how much you have in savings will not affect what you get.</p>\n\n<h2 id=\"attendance-allowance-rates\">Attendance Allowance rates</h2>\n\n<table>\n  <thead>\n    <tr>\n      <th scope=\"col\">Rate</th>\n      <th scope=\"col\">Level of help you need</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Lower rate - £73.90</td>\n      <td>Frequent help or constant supervision during the day, or supervision at night</td>\n    </tr>\n    <tr>\n      <td>Higher rate - £110.40</td>\n      <td>Help or supervision throughout both day and night, or a medical professional has said you’re <a href=\"/attendance-allowance/claiming-end-of-life\">nearing the end of life</a>\n</td>\n    </tr>\n  </tbody>\n</table>\n\n<p>If your circumstances change, you could get a different rate. You must <a href=\"/attendance-allowance/report-change-in-circumstances\">report a change of circumstances</a>.</p>\n\n<p>You could get extra Pension Credit, Housing Benefit or Council Tax Reduction if you get Attendance Allowance - check with the helpline or office dealing with your benefit.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>If you get <a href=\"/constant-attendance-allowance\">Constant Attendance Allowance</a> at the same time, your Attendance Allowance will be reduced by the amount of Constant Attendance Allowance you get.</p>\n</div>\n\n<h2 id=\"how-youre-paid\">How you’re paid</h2>\n\n<p>All benefits are <a href=\"/how-to-have-your-benefits-paid\">paid into your bank, building society or credit union account</a>.</p>\n",
+        "slug": "what-youll-get",
+        "title": "What you'll get"
+      },
+      {
+        "body": "<p>You can get Attendance Allowance if you’ve reached <a href=\"/state-pension-age\">State Pension age</a> and the following apply:</p>\n\n<ul>\n  <li>you have a physical disability (including sensory disability, for example blindness), a mental disability (including learning difficulties), or a health condition</li>\n  <li>your disability or health condition is severe enough for you to need help caring for yourself or someone to supervise you, for your own or someone else’s safety</li>\n  <li>you have needed that help for at least 6 months</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>There are different eligibility rules <a href=\"/attendance-allowance/claiming-end-of-life\">if you’re nearing the end of life</a> (for example, due to a life-limiting illness). You might be able to get Attendance Allowance more quickly and at a higher rate.</p>\n</div>\n\n<p>You must also:</p>\n\n<ul>\n  <li>be in Great Britain when you claim - there are some exceptions, such as members and family members of the armed forces</li>\n  <li>have been in Great Britain for at least 2 of the last 3 years (this does not apply if you’re a refugee or have humanitarian protection status)</li>\n  <li>be <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/benefits/getting-benefits-if-youve-recently-moved-to-the-UK/\">habitually resident</a> in the UK, Ireland, Isle of Man or the Channel Islands</li>\n  <li>not be subject to <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/benefits/getting-benefits-if-youve-recently-moved-to-the-UK/\">immigration control</a> (unless you’re a sponsored immigrant)</li>\n  <li>not get <a href=\"/dla-disability-living-allowance-benefit\">Disability Living Allowance (<abbr title=\"Disability Living Allowance\">DLA</abbr>)</a>, <a href=\"/pip\">Personal Independence Payment (<abbr title=\"Personal Independence Payment\">PIP</abbr>)</a>,  <a rel=\"external\" href=\"https://www.mygov.scot/adult-disability-payment\">Adult Disability Payment (<abbr title=\"Adult Disability Payment\">ADP</abbr>)</a>, <a rel=\"external\" href=\"https://www.mygov.scot/browse/benefits/disability-benefits/scottish-adult-disability-living-allowance\">Scottish Adult Disability Living Allowance (SADLA)</a> or <a href=\"/guidance/armed-forces-independence-payment-afip\">Armed Forces Independence Payment (<abbr title=\"Armed Forces Independence Payment\">AFIP</abbr>)</a>\n</li>\n</ul>\n\n<h2 id=\"if-you-live-in-scotland\">If you live in Scotland</h2>\n\n<p>You will need to apply for <a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment\">Pension Age Disability Payment</a> instead of Attendance Allowance.</p>\n\n<h2 id=\"if-you-live-in-the-eu-switzerland-norway-iceland-or-liechtenstein\">If you live in the EU, Switzerland, Norway, Iceland or Liechtenstein</h2>\n\n<p>You might still be able to get Attendance Allowance if you’re a UK national and you live in or move to the EU, European Economic Area (<abbr title=\"European Economic Area\">EEA</abbr>) or Switzerland.</p>\n\n<p>Read guidance to <a href=\"/guidance/benefits-and-pensions-for-uk-nationals-in-the-eea-or-switzerland\">find out if you can get benefits in the EU, <abbr title=\"European Economic Area\">EEA</abbr> or Switzerland</a>.</p>\n\n<h2 id=\"if-youre-in-a-care-home\">If you’re in a care home</h2>\n\n<p>You cannot usually get Attendance Allowance if you live in a care home and your care is paid for by your local authority. You can still claim Attendance Allowance if you pay for all your care home costs yourself.</p>\n\n<h2 id=\"if-you-need-an-assessment\">If you need an assessment</h2>\n\n<p>You’ll only need to attend an assessment to check your eligibility if it’s unclear how your disability or health condition affects you.</p>\n\n<p>If you do need an assessment you’ll get a letter saying why and where you must go. During the assessment, a medical professional will need to examine you.</p>\n\n",
+        "slug": "eligibility",
+        "title": "Eligibility"
+      },
+      {
+        "body": "<p>You can apply for Attendance Allowance online or by post.</p>\n\n<p>There’s a different way to claim:</p>\n\n<ul>\n  <li>\n<a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/attendance-allowance\">in Northern Ireland</a>  </li>\n  <li>\n<a href=\"/attendance-allowance/claiming-end-of-life\">if you’re nearing the end of life</a> (for example, because you have a life-limiting illness)</li>\n</ul>\n\n<p>To apply, you’ll need:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>your address and contact details</li>\n  <li>details of the disability or health condition that you need extra help for</li>\n  <li>details of your GP surgery or medical centre</li>\n  <li>details of your care home, hospital or hospice if you’re currently staying in one</li>\n</ul>\n\n<h2 id=\"apply-online\">Apply online</h2>\n\n<p>You cannot apply online if you:</p>\n\n<ul>\n  <li>are an appointee</li>\n  <li>have power of attorney</li>\n</ul>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" data-ga4-attributes='{\"event_name\":\"navigation\",\"type\":\"start button\"}' draggable=\"false\" href=\"https://apply-for-attendance-allowance.dwp.gov.uk/\"><span> Start now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h2 id=\"if-you-live-in-scotland\">If you live in Scotland</h2>\n\n<p>If you live in Scotland, you need to <a rel=\"external\" href=\"https://www.mygov.scot/pension-age-disability-payment\">apply for Pension Age Disability Payment</a> instead of Attendance Allowance.</p>\n\n<h2 id=\"apply-by-post\">Apply by post</h2>\n\n<p>You can either:</p>\n\n<ul>\n  <li>print and send the <a href=\"/government/publications/attendance-allowance-claim-form\">Attendance Allowance claim form</a>\n</li>\n  <li>contact the helpline to request a claim form</li>\n</ul>\n\n<div class=\"contact\">\n<p>Attendance Allowance helpline<br>\nTelephone: 0800 731 0122<br>\n<a href=\"https://www.relayuk.bt.com/\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 731 0122<br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a><br>\nMonday to Friday, 8am to 6pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h3 id=\"where-to-send-the-form\">Where to send the form</h3>\n\n<p>Send the completed form to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\nFreepost<br><abbr title=\"Department for Work and Pensions\">DWP</abbr> Attendance Allowance\n</p></div></div>\n\n<p>Do not write anything except the freepost address on the envelope. You do not need a postcode or a stamp. </p>\n\n<p>The form comes with notes telling you how to fill it.</p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>After you send your claim, you’ll get a text or letter within 3 weeks that explains when you can expect a decision.</p>\n\n<p>Once a decision is made, you’ll get a letter explaining the outcome.</p>\n\n<h2 id=\"when-youll-be-paid\">When you’ll be paid</h2>\n\n<p>If you’re awarded Attendance Allowance, the decision letter will tell you when you’ll get your first payment.</p>\n\n<p>If you apply online, your claim will start on the date you make your claim.</p>\n\n<p>If you print and post the form, your claim will start on the date the Department for Work and Pensions (<abbr title=\"Department for Work and Pensions\">DWP</abbr>) receives it.</p>\n\n<p>If you call the helpline to get a form, your claim will start on the date of your call (if you return the form within 6 weeks).</p>\n\n<h2 id=\"if-you-disagree-with-a-decision\">If you disagree with a decision</h2>\n\n<p>You can <a href=\"/mandatory-reconsideration\">challenge a decision</a> about your claim. This is called asking for mandatory reconsideration.</p>\n\n<h2 id=\"complaints\">Complaints</h2>\n\n<p>You can <a href=\"https://www.gov.uk/government/organisations/department-for-work-pensions/about/complaints-procedure\">complain to <abbr title=\"Department for Work and Pensions\">DWP</abbr></a> if you’re unhappy with the service you’ve received.</p>\n\n",
+        "slug": "how-to-claim",
+        "title": "How to claim"
+      },
+      {
+        "body": "<p>If your circumstances change, the amount you get from Attendance Allowance may go up or down.</p>\n\n<p>You must contact the Attendance Allowance helpline straight away if:</p>\n\n<ul>\n  <li>the level of help you need or your condition changes - you’ll need to provide details like if the amount of times you need help each day has changed</li>\n  <li>you go into hospital or a care home - you’ll need to provide the address, the dates you’ve been there for, and how your stay is paid for</li>\n  <li>a medical professional has said <a href=\"/attendance-allowance/claiming-end-of-life\">you might have 12 months or less to live</a> (you could get Attendance Allowance at a higher rate under ‘special rules for end of life’)</li>\n  <li>you plan to leave the country for more than 4 weeks</li>\n  <li>you go into prison</li>\n  <li>you change your name, address or bank details</li>\n  <li>you want to stop receiving your benefit</li>\n  <li>your doctor’s details change</li>\n  <li>your immigration status changes, if you’re not a British citizen</li>\n</ul>\n\n<p>If you go into a care home for more than 4 weeks, you’ll also need to report if: </p>\n\n<ul>\n  <li>there’s a change to the way your care home fees are funded (for example, you start or stop getting funding from the NHS or local council)</li>\n  <li>you were staying in the care home temporarily and you become a permanent resident</li>\n  <li>you move to another care home</li>\n  <li>you go into hospital</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You could be taken to court or have to pay a penalty if you give wrong information or do not report a change in your circumstances.</p>\n</div>\n\n<div class=\"contact\">\n<p>Attendance Allowance helpline  <br>\nTelephone: 0800 731 0122    <br>\n<a href=\"https://www.relayuk.bt.com/\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 731 0122  <br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a> <br>\nMonday to Friday, 8am to 6pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"if-youve-been-paid-too-much\">If you’ve been paid too much</h2>\n\n<p>You may have to repay the money if you:</p>\n\n<ul>\n  <li>did not report a change straight away</li>\n  <li>gave wrong information</li>\n  <li>were overpaid by mistake</li>\n</ul>\n\n<p>Find out how to <a href=\"/benefit-overpayments\">repay the money you owe from benefit overpayment</a>.</p>\n",
+        "slug": "report-change-in-circumstances",
+        "title": "Report a change in circumstances"
+      },
+      {
+        "body": "<p>If you’re nearing the end of life (for example, due to a life-limiting illness) you might be able to get Attendance Allowance more quickly and at a higher rate.</p>\n\n<p>This is sometimes called ‘special rules for end of life’.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>You may also be able to get other <a href=\"/benefits-end-of-life\">benefits if you’re nearing the end of life</a>.</p>\n</div>\n\n<h2 id=\"eligibility\">Eligibility</h2>\n\n<p>You’re eligible if: </p>\n\n<ul>\n  <li>you’ve reached <a href=\"/state-pension-age\">State Pension age</a>\n</li>\n  <li>your doctor or medical professional has said you might have 12 months or less to live</li>\n</ul>\n\n<p>It can be difficult to predict how long someone might live for. If a medical professional has not talked to you about this, you can still ask them to support your claim under the special rules for end of life.</p>\n\n<h2 id=\"what-youll-get\">What you’ll get</h2>\n\n<p>You’ll get the higher rate of £110.40 per week.</p>\n\n<p>You could also get extra Pension Credit, Housing Benefit or Council Tax Reduction.</p>\n\n<p>The letter about the money awarded will not mention ‘special rules’.</p>\n\n<h2 id=\"how-to-claim\">How to claim</h2>\n\n<p>You can claim for yourself or someone else can make a claim for you (they do not need your permission). </p>\n\n<p>You need to:</p>\n\n<ul>\n  <li>ask a medical professional for form SR1 - they’ll either fill it in and give the form to you or send it directly to the Department for Work and Pensions (<abbr title=\"Department for Work and Pensions\">DWP</abbr>)</li>\n  <li>apply for Attendance Allowance online or by post</li>\n</ul>\n\n<p>You will not need to go to a face-to-face assessment.</p>\n\n<h3 id=\"apply-online\">Apply online</h3>\n\n<p>To apply, you’ll need:</p>\n\n<ul>\n  <li>your National Insurance number</li>\n  <li>your address and contact details</li>\n  <li>details of the disability or health condition that you need extra help for</li>\n  <li>details of your GP surgery or medical centre</li>\n  <li>details of your care home, hospital or hospice if you’re currently staying in one</li>\n</ul>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" data-ga4-attributes='{\"event_name\":\"navigation\",\"type\":\"start button\"}' draggable=\"false\" href=\"https://apply-for-attendance-allowance.dwp.gov.uk/attall-apply-ui/claim-type?journeyType=SPECIAL_RULES\"><span> Start now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h3 id=\"apply-by-post\">Apply by post</h3>\n\n<p>You can either:  </p>\n\n<ul>\n  <li>print and send the <a href=\"/government/publications/attendance-allowance-claim-form\">Attendance Allowance claim form</a>  </li>\n  <li>contact the helpline to request a claim form  </li>\n</ul>\n\n<div class=\"contact\">\n<p>Attendance Allowance helpline <br>\nTelephone: 0800 731 0122 <br>\n<a href=\"https://www.relayuk.bt.com/\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 731 0122 <br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a> <br>\nMonday to Friday, 8am to 6pm <br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<p>Send the completed claim form to:</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\nFreepost<br><abbr title=\"Department for Work and Pensions\">DWP</abbr> Attendance Allowance\n</p></div></div>\n\n<p>Do not write anything except the freepost address on the envelope. You do not need a postcode or a stamp. </p>\n\n<h2 id=\"after-you-apply\">After you apply</h2>\n\n<p>After you send your claim, you’ll be contacted by phone or sent a letter within 3 weeks to explain when you can expect a decision.</p>\n\n<p>Once a decision is made, you’ll get a letter explaining the outcome.</p>\n\n<h2 id=\"when-youll-be-paid\">When you’ll be paid</h2>\n\n<p>If you’re awarded Attendance Allowance, the decision letter will tell you when you’ll get your first payment.</p>\n\n<p>If you apply online, your claim will start on the date you make your claim.</p>\n\n<p>If you print and post the form, your claim will start on the date <abbr title=\"Department for Work and Pensions\">DWP</abbr> receives it.</p>\n\n<p>If you call the helpline to get a form, your claim will start on the date of your call (if you return the form within 6 weeks).</p>\n\n<h2 id=\"if-you-already-get-attendance-allowance\">If you already get Attendance Allowance</h2>\n\n<p>Contact the Attendance Allowance helpline straight away if you already get Attendance Allowance and a medical professional has said you might have 12 months or less to live.</p>\n\n",
+        "slug": "claiming-end-of-life",
+        "title": "Claiming Attendance Allowance if you’re nearing the end of life"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2012-01-17T14:54:00+00:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/attendance-allowance",
+        "api_url": "https://www.gov.uk/api/content/attendance-allowance",
+        "base_path": "/attendance-allowance",
+        "content_id": "916b042a-ee5c-420b-8481-17c74e7bb456",
+        "document_type": "guide",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-10-21T11:29:59Z",
+        "schema_name": "guide",
+        "title": "Attendance Allowance",
+        "web_url": "https://www.gov.uk/attendance-allowance",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/help-for-carers",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+        "base_path": "/browse/benefits/help-for-carers",
+        "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+        "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-07-09T15:44:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're caring for someone",
+        "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/disability",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+        "base_path": "/browse/benefits/disability",
+        "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+        "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-05-15T13:44:43Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're disabled or have a health condition",
+        "web_url": "https://www.gov.uk/browse/benefits/disability",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/disabilities/benefits",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+        "base_path": "/browse/disabilities/benefits",
+        "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+        "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/financial-help-disabled",
+        "api_url": "https://www.gov.uk/api/content/financial-help-disabled",
+        "base_path": "/financial-help-disabled",
+        "content_id": "d1d66f56-3a29-449c-9639-787f02a576e1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-05-15T13:44:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T14:03:53Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Caring for someone",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/armed-forces",
+              "api_url": "https://www.gov.uk/api/content/browse/working/armed-forces",
+              "base_path": "/browse/working/armed-forces",
+              "content_id": "201306e2-65d1-409a-92f6-d266f8151b8d",
+              "description": "Includes reserve forces and armed forces pensions, benefits and financial assistance. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-10-09T15:02:15Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Armed forces",
+              "web_url": "https://www.gov.uk/browse/working/armed-forces",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2014-12-11T16:09:53Z",
+        "schema_name": "guide",
+        "title": "Financial help if you're disabled",
+        "web_url": "https://www.gov.uk/financial-help-disabled",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/how-to-have-your-benefits-paid",
+        "api_url": "https://www.gov.uk/api/content/how-to-have-your-benefits-paid",
+        "base_path": "/how-to-have-your-benefits-paid",
+        "content_id": "f33cbf6f-f27c-4335-ab6f-b5e396f02d56",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-12-09T16:19:10Z",
+        "schema_name": "answer",
+        "title": "How and when your benefits are paid",
+        "web_url": "https://www.gov.uk/how-to-have-your-benefits-paid",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/carers-allowance",
+        "api_url": "https://www.gov.uk/api/content/carers-allowance",
+        "base_path": "/carers-allowance",
+        "content_id": "f508898d-1ba0-46f7-b150-828166886d97",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/help-for-carers",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+              "base_path": "/browse/benefits/help-for-carers",
+              "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+              "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T15:44:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're caring for someone",
+              "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/lasting-power-attorney",
+              "base_path": "/browse/births-deaths-marriages/lasting-power-attorney",
+              "content_id": "affe9184-22a0-4e27-9254-2e43f6b2c870",
+              "description": "Includes dealing with benefits, taxes and leaving care",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-08-24T13:15:26Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Lasting power of attorney, being in care and managing finances",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/lasting-power-attorney",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T14:03:53Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Caring for someone",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-10-17T10:36:05Z",
+        "schema_name": "guide",
+        "title": "Carer's Allowance",
+        "web_url": "https://www.gov.uk/carers-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pip",
+        "api_url": "https://www.gov.uk/api/content/pip",
+        "base_path": "/pip",
+        "content_id": "56ffb2a7-f45f-4e6c-bbfe-3d898a3358d8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-05-15T13:44:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-11-06T10:53:35Z",
+        "schema_name": "guide",
+        "title": "Personal Independence Payment (PIP)",
+        "web_url": "https://www.gov.uk/pip",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/pension-credit",
+        "api_url": "https://www.gov.uk/api/content/pension-credit",
+        "base_path": "/pension-credit",
+        "content_id": "36110496-f717-4ac9-9698-60601ab77454",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/help-for-carers",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+              "base_path": "/browse/benefits/help-for-carers",
+              "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+              "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T15:44:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're caring for someone",
+              "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/looking-for-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+              "base_path": "/browse/benefits/looking-for-work",
+              "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+              "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're looking for work",
+              "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T14:03:53Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Caring for someone",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/workplace-personal-pensions",
+              "api_url": "https://www.gov.uk/api/content/browse/working/workplace-personal-pensions",
+              "base_path": "/browse/working/workplace-personal-pensions",
+              "content_id": "bc5ca140-2539-4ec2-8733-9e0acb02f912",
+              "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-10-16T15:48:22Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Workplace and personal pensions",
+              "web_url": "https://www.gov.uk/browse/working/workplace-personal-pensions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-10-14T10:06:35Z",
+        "schema_name": "guide",
+        "title": "Pension Credit",
+        "web_url": "https://www.gov.uk/pension-credit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "api_url": "https://www.gov.uk/api/content/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "base_path": "/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "content_id": "7621b67d-30fa-4754-bc85-f7e0548b0235",
+        "document_type": "detailed_guide",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-09-30T14:59:03Z",
+        "schema_name": "detailed_guide",
+        "title": "Get help with benefits and pensions if you have accessibility needs",
+        "web_url": "https://www.gov.uk/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-into-care-home-benefits",
+        "api_url": "https://www.gov.uk/api/content/going-into-care-home-benefits",
+        "base_path": "/going-into-care-home-benefits",
+        "content_id": "c12d47ac-5a54-4a16-8830-68484bbc86b7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-07-09T10:19:02Z",
+        "schema_name": "guide",
+        "title": "Claiming benefits if you’re going into a care home",
+        "web_url": "https://www.gov.uk/going-into-care-home-benefits",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/benefits/disability",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+        "base_path": "/browse/benefits/disability",
+        "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+        "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits",
+              "base_path": "/browse/benefits",
+              "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+              "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+              "document_type": "mainstream_browse_page",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2018-05-16T16:12:49Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits",
+              "web_url": "https://www.gov.uk/browse/benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-05-15T13:44:43Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're disabled or have a health condition",
+        "web_url": "https://www.gov.uk/browse/benefits/disability",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "government-digital-service",
+          "default_news_image": null,
+          "logo": {
+            "crest": "gds",
+            "formatted_title": "Government<br/>Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "related_to_step_navs": [
+      {
+        "api_path": "/api/content/plan-for-retirement",
+        "api_url": "https://www.gov.uk/api/content/plan-for-retirement",
+        "base_path": "/plan-for-retirement",
+        "content_id": "c0ff9296-e91e-40d1-97bd-008026e90426",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/state-pension-age",
+                        "text": "Check what age you can get your State Pension"
+                      },
+                      {
+                        "href": "/working-retirement-pension-age",
+                        "text": "Find out about working after you reach State Pension age"
+                      },
+                      {
+                        "href": "/early-retirement-pension/personal-and-workplace-pensions",
+                        "text": "Find out if you can retire early with your workplace or personal pension"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check when you can retire"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-state-pension",
+                        "text": "Find out how much State Pension you could get (your forecast)"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You may also be paying into a:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/workplace-pensions",
+                        "text": "workplace pension"
+                      },
+                      {
+                        "href": "/pension-types",
+                        "text": "personal pension"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/tax-on-pension",
+                        "text": "Find out if you’ll pay tax on your pension"
+                      },
+                      {
+                        "href": "/find-pension-contact-details",
+                        "text": "Find contact details for a lost pension"
+                      },
+                      {
+                        "href": "/state-pension-if-you-retire-abroad/rates-of-state-pension",
+                        "text": "Check how your pension is affected if you retire abroad"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check how much pension you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You might be able to increase the amount you get if you delay your pension.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/deferring-state-pension",
+                        "text": "Find out about delaying your pension"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You might be able to pay voluntary contributions to fill in gaps in your National Insurance record (such as, from when you were not working or claiming benefits). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/voluntary-national-insurance-contributions/who-can-pay-voluntary-contributions",
+                        "text": "Check if you can pay voluntary National Insurance contributions"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "For advice about increasing your workplace or private pension, speak to a financial adviser.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.unbiased.co.uk/",
+                        "text": "Find a financial adviser through Unbiased"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Increase your pension"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Check what financial help you could get if you:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/pension-credit",
+                        "text": "are on a low income"
+                      },
+                      {
+                        "href": "/housing-benefit",
+                        "text": "need help paying your rent"
+                      },
+                      {
+                        "href": "/winter-fuel-payment",
+                        "text": "need help paying your heating bill"
+                      },
+                      {
+                        "href": "/cold-weather-payment",
+                        "text": "are claiming benefits and the weather is cold"
+                      },
+                      {
+                        "href": "/attendance-allowance",
+                        "text": "are disabled"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can also get free bus travel if you: ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-for-elderly-person-bus-pass",
+                        "text": "apply for a bus pass"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check what other financial support you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/plan-retirement-income/get-financial-advice",
+                        "text": "Get advice on planning your pension and deciding when to retire"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Decide when to retire "
+              }
+            ],
+            "title": "Plan your retirement income: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_related_to_step_nav": [
+            {
+              "api_path": "/api/content/attendance-allowance",
+              "api_url": "https://www.gov.uk/api/content/attendance-allowance",
+              "base_path": "/attendance-allowance",
+              "content_id": "916b042a-ee5c-420b-8481-17c74e7bb456",
+              "document_type": "guide",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2024-10-21T11:29:59Z",
+              "schema_name": "guide",
+              "title": "Attendance Allowance",
+              "web_url": "https://www.gov.uk/attendance-allowance",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-10-31T15:06:18Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Plan your retirement income: step by step",
+        "web_url": "https://www.gov.uk/plan-for-retirement",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/health-and-social-care/disabilities-benefits",
+        "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities-benefits",
+        "base_path": "/health-and-social-care/disabilities-benefits",
+        "content_id": "a1848bca-b5f7-4e72-8e88-63e2847d20d4",
+        "details": {
+          "internal_name": "Benefits and financial help [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/health-and-social-care/disabilities",
+              "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities",
+              "base_path": "/health-and-social-care/disabilities",
+              "content_id": "d69977ab-4fb1-4ad6-b379-e967c5b7528b",
+              "details": {
+                "internal_name": "Disabled people [M]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/health-and-social-care",
+                    "api_url": "https://www.gov.uk/api/content/health-and-social-care",
+                    "base_path": "/health-and-social-care",
+                    "content_id": "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Health and social care",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2026-02-18T13:00:23Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:30:51Z",
+                    "schema_name": "taxon",
+                    "title": "Health and social care",
+                    "web_url": "https://www.gov.uk/health-and-social-care",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T12:56:16Z",
+              "schema_name": "taxon",
+              "title": "Disabled people",
+              "web_url": "https://www.gov.uk/health-and-social-care/disabilities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:56:16Z",
+        "schema_name": "taxon",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/health-and-social-care/disabilities-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/disability",
+        "api_url": "https://www.gov.uk/api/content/welfare/disability",
+        "base_path": "/welfare/disability",
+        "content_id": "05a9527b-e6e9-4a68-8dd7-7d84e6a24eef",
+        "details": {
+          "internal_name": "Carers and disability benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2026-02-18T13:00:23Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Carers and disability benefits",
+        "web_url": "https://www.gov.uk/welfare/disability",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2024-10-21T12:29:59+01:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1771857437.712-10.13.21.58-2388",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Attendance Allowance",
+  "updated_at": "2026-02-23T14:37:19+00:00",
+  "withdrawn_notice": {}
+}

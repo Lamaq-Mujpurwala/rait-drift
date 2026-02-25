@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CAL001",
+    "query": "What is the standard allowance for Universal Credit?",
+    "context_summary": "Universal Credit standard allowance rates",
+    "expected_claims": [
+      "Single claimants under 25 get a lower rate",
+      "Single claimants 25 or over receive a specific monthly amount",
+      "Couples receive a higher rate"
+    ],
+    "expected_faithfulness": 1.0,
+    "notes": "Straightforward factual — all claims should be supported"
+  },
+  {
+    "id": "CAL002",
+    "query": "Can I get Housing Benefit if I have savings?",
+    "context_summary": "Housing Benefit savings/capital rules",
+    "expected_claims": [
+      "Savings over £16,000 disqualify you",
+      "Savings between £6,000 and £16,000 affect the amount"
+    ],
+    "expected_faithfulness": 1.0,
+    "notes": "Exact thresholds — tests numerical accuracy"
+  },
+  {
+    "id": "CAL003",
+    "query": "What is the weather like in London?",
+    "context_summary": "No relevant context available",
+    "expected_claims": [],
+    "expected_faithfulness": null,
+    "notes": "Out-of-scope query — should produce refusal; no claims to verify"
+  },
+  {
+    "id": "CAL004",
+    "query": "How do I apply for PIP?",
+    "context_summary": "PIP application process",
+    "expected_claims": [
+      "You start by calling a phone number",
+      "You will receive a form to fill in",
+      "You may be asked to attend a face-to-face assessment"
+    ],
+    "expected_faithfulness": 0.85,
+    "notes": "Process steps — some claims may be ambiguous re: exact process"
+  },
+  {
+    "id": "CAL005",
+    "query": "Tell me about the council tax bands in England",
+    "context_summary": "Council tax band information",
+    "expected_claims": [
+      "Properties are placed in bands A to H",
+      "The band depends on property value"
+    ],
+    "expected_faithfulness": 1.0,
+    "notes": "Well-supported factual content"
+  }
+]

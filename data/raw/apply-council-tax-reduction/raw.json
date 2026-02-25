@@ -1,0 +1,744 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/apply-council-tax-reduction",
+  "content_id": "d9b95f99-f3ce-4b88-900e-1cc58089c952",
+  "description": "Apply to your local council for Council Tax Reduction if you're on a low income or benefits - this replaced Council Tax Benefit",
+  "details": {
+    "external_related_links": [],
+    "introduction": "<p>Apply to your local council for Council Tax Reduction (sometimes called Council Tax Support).</p>\n\n<p>You’ll get a discount on your bill if you’re eligible.</p>\n\n",
+    "lgil_code": 0,
+    "lgsl_code": 63,
+    "more_information": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>There’s a different <a rel=\"external\" href=\"http://www.nidirect.gov.uk/index/information-and-services/property-and-housing/rates/help-with-paying-your-rates.htm\">scheme in Northern Ireland</a>.</p>\n</div>\n\n<p>You could be eligible if you’re on a low income or claim benefits. Your bill could be reduced by up to 100%.</p>\n\n<p>You can apply if you own your home, rent, are unemployed or working.</p>\n\n<p>What you get depends on:</p>\n\n<ul>\n  <li>where you live - each council runs its own scheme</li>\n  <li>your circumstances (for example income, number of children, benefits, residency status)</li>\n  <li>your household income - this includes savings, pensions and your partner’s income</li>\n  <li>if your children live with you</li>\n  <li>if other adults live with you</li>\n</ul>\n",
+    "need_to_know": "\n",
+    "service_tiers": [
+      "district",
+      "unitary"
+    ]
+  },
+  "document_type": "local_transaction",
+  "first_published_at": "2012-01-24T10:33:11+00:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/apply-council-tax-reduction",
+        "api_url": "https://www.gov.uk/api/content/apply-council-tax-reduction",
+        "base_path": "/apply-council-tax-reduction",
+        "content_id": "d9b95f99-f3ce-4b88-900e-1cc58089c952",
+        "document_type": "local_transaction",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-05-27T07:44:02Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for Council Tax Reduction",
+        "web_url": "https://www.gov.uk/apply-council-tax-reduction",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/universal-credit-information-for-employers",
+        "api_url": "https://www.gov.uk/api/content/government/collections/universal-credit-information-for-employers",
+        "base_path": "/government/collections/universal-credit-information-for-employers",
+        "content_id": "73e187f8-367c-45c4-ba79-f2abf5a786f6",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/apply-council-tax-reduction",
+              "api_url": "https://www.gov.uk/api/content/apply-council-tax-reduction",
+              "base_path": "/apply-council-tax-reduction",
+              "content_id": "d9b95f99-f3ce-4b88-900e-1cc58089c952",
+              "document_type": "local_transaction",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2022-05-27T07:44:02Z",
+              "schema_name": "local_transaction",
+              "title": "Apply for Council Tax Reduction",
+              "web_url": "https://www.gov.uk/apply-council-tax-reduction",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-09-04T15:13:23Z",
+        "schema_name": "document_collection",
+        "title": "Universal Credit: information for employers",
+        "web_url": "https://www.gov.uk/government/collections/universal-credit-information-for-employers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/universal-credit-information-for-landlords",
+        "api_url": "https://www.gov.uk/api/content/government/collections/universal-credit-information-for-landlords",
+        "base_path": "/government/collections/universal-credit-information-for-landlords",
+        "content_id": "913a78d6-4f55-4925-9131-d0e498d0cb5a",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/apply-council-tax-reduction",
+              "api_url": "https://www.gov.uk/api/content/apply-council-tax-reduction",
+              "base_path": "/apply-council-tax-reduction",
+              "content_id": "d9b95f99-f3ce-4b88-900e-1cc58089c952",
+              "document_type": "local_transaction",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2022-05-27T07:44:02Z",
+              "schema_name": "local_transaction",
+              "title": "Apply for Council Tax Reduction",
+              "web_url": "https://www.gov.uk/apply-council-tax-reduction",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-09-05T08:10:54Z",
+        "schema_name": "document_collection",
+        "title": "Universal Credit: information for landlords",
+        "web_url": "https://www.gov.uk/government/collections/universal-credit-information-for-landlords",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/council-tax",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+        "base_path": "/browse/housing-local-services/council-tax",
+        "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+        "description": "Includes council tax appeals, bands, discounts and reductions",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2023-07-31T14:36:03Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Council Tax",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/renting-property",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/renting-property",
+        "base_path": "/browse/housing-local-services/renting-property",
+        "content_id": "dc2e6e16-2ba2-45fe-8e26-d69f51094c4e",
+        "description": "Includes proving your right to rent with a share code or documents, tenancy agreements and deposits",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2023-08-29T15:07:40Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Renting a property",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/renting-property",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+        "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+        "base_path": "/browse/housing-local-services/repossessions-evictions",
+        "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+        "description": "Includes help with homelessness, evictions and squatting ",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2023-08-29T14:51:54Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Repossessions, homelessness, emergency housing and evictions",
+        "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/council-tax",
+        "api_url": "https://www.gov.uk/api/content/council-tax",
+        "base_path": "/council-tax",
+        "content_id": "428c2bae-56c2-48bd-a917-3d04df0a63fd",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+              "base_path": "/browse/housing-local-services/council-tax",
+              "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+              "description": "Includes council tax appeals, bands, discounts and reductions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-02-05T14:40:44Z",
+        "schema_name": "guide",
+        "title": "How Council Tax works",
+        "web_url": "https://www.gov.uk/council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/apply-for-council-tax-discount",
+        "api_url": "https://www.gov.uk/api/content/apply-for-council-tax-discount",
+        "base_path": "/apply-for-council-tax-discount",
+        "content_id": "47b2fc1b-271a-41eb-833d-b9b4259d9222",
+        "document_type": "local_transaction",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-tax",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-tax",
+              "base_path": "/browse/housing-local-services/council-tax",
+              "content_id": "d958a860-3e80-4377-9d97-a491c77dbfc5",
+              "description": "Includes council tax appeals, bands, discounts and reductions",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-tax",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/local-councils",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/local-councils",
+              "base_path": "/browse/housing-local-services/local-councils",
+              "content_id": "4f8f62a8-9ff9-45ab-b4f7-aec5d1cffbad",
+              "description": "Find and access local services",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:36:03Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Local councils and services",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/local-councils",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-09-07T17:10:15Z",
+        "schema_name": "local_transaction",
+        "title": "Apply for a Council Tax discount",
+        "web_url": "https://www.gov.uk/apply-for-council-tax-discount",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/benefit-fraud",
+        "api_url": "https://www.gov.uk/api/content/benefit-fraud",
+        "base_path": "/benefit-fraud",
+        "content_id": "3489076b-8c47-42ac-850d-03181891ab61",
+        "document_type": "answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-04-01T00:01:01Z",
+        "schema_name": "answer",
+        "title": "Benefit fraud",
+        "web_url": "https://www.gov.uk/benefit-fraud",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D1419",
+        "api_path": "/api/content/government/organisations/ministry-of-housing-communities-local-government",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/ministry-of-housing-communities-local-government",
+        "base_path": "/government/organisations/ministry-of-housing-communities-local-government",
+        "content_id": "1390d07f-12b3-4f55-9dd5-fec5fd9e3649",
+        "details": {
+          "acronym": "MHCLG",
+          "brand": "ministry-of-housing-communities-local-government",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/668f9d9ea3c2a28abb50cd88/s960_2_Marsham_Street_1_-_960x640.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/668f9d9eab418ab055592384/s300_2_Marsham_Street_1_-_960x640.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Ministry of Housing,<br/>Communities &amp; <br/>Local Government"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Ministry of Housing, Communities and Local Government",
+        "web_url": "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government",
+        "withdrawn": false
+      },
+      {
+        "analytics_identifier": "EA87",
+        "api_path": "/api/content/government/organisations/valuation-office-agency",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/valuation-office-agency",
+        "base_path": "/government/organisations/valuation-office-agency",
+        "content_id": "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
+        "details": {
+          "acronym": "VOA",
+          "brand": "hm-revenue-customs",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37db26e5274a7908e352e5/s960_VOA-Wingate-Sign.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37db27e5274a79051c9268/s300_VOA-Wingate-Sign.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Valuation Office Agency"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Valuation Office Agency",
+        "web_url": "https://www.gov.uk/government/organisations/valuation-office-agency",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits",
+              "base_path": "/browse/benefits",
+              "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+              "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+              "document_type": "mainstream_browse_page",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2018-05-16T16:12:49Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits",
+              "web_url": "https://www.gov.uk/browse/benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "government-digital-service",
+          "default_news_image": null,
+          "logo": {
+            "crest": "gds",
+            "formatted_title": "Government<br/>Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/regional-and-local-government/local-government-council-tax-appeals-and-reductions",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government-council-tax-appeals-and-reductions",
+        "base_path": "/regional-and-local-government/local-government-council-tax-appeals-and-reductions",
+        "content_id": "467815e0-af2a-4a6a-9560-2713a51c4cfc",
+        "details": {
+          "internal_name": "Appeals and reductions [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government/local-government-council-tax",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government-council-tax",
+              "base_path": "/regional-and-local-government/local-government-council-tax",
+              "content_id": "107b4fd7-fef4-4a86-9796-2967c95f3f3c",
+              "details": {
+                "internal_name": "Council Tax [T]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/regional-and-local-government/local-government",
+                    "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government",
+                    "base_path": "/regional-and-local-government/local-government",
+                    "content_id": "c914fd40-dd0a-45c4-a6ff-bce0cda31bde",
+                    "details": {
+                      "internal_name": "Local government (merged, Level 2)",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "parent_taxons": [
+                        {
+                          "api_path": "/api/content/regional-and-local-government",
+                          "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+                          "base_path": "/regional-and-local-government",
+                          "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+                          "description": "",
+                          "details": {
+                            "internal_name": "Regional and local government",
+                            "notes_for_editors": "",
+                            "visible_to_departmental_editors": true
+                          },
+                          "document_type": "taxon",
+                          "links": {
+                            "root_taxon": [
+                              {
+                                "api_path": "/api/content/",
+                                "api_url": "https://www.gov.uk/api/content/",
+                                "base_path": "/",
+                                "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                                "document_type": "homepage",
+                                "links": {},
+                                "locale": "en",
+                                "public_updated_at": "2026-02-18T13:00:23Z",
+                                "schema_name": "homepage",
+                                "title": "GOV.UK homepage",
+                                "web_url": "https://www.gov.uk/",
+                                "withdrawn": false
+                              }
+                            ]
+                          },
+                          "locale": "en",
+                          "phase": "live",
+                          "public_updated_at": "2018-09-16T20:30:05Z",
+                          "schema_name": "taxon",
+                          "title": "Regional and local government",
+                          "web_url": "https://www.gov.uk/regional-and-local-government",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-08-22T13:09:38Z",
+                    "schema_name": "taxon",
+                    "title": "Local government",
+                    "web_url": "https://www.gov.uk/regional-and-local-government/local-government",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:09:39Z",
+              "schema_name": "taxon",
+              "title": "Council Tax",
+              "web_url": "https://www.gov.uk/regional-and-local-government/local-government-council-tax",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:39Z",
+        "schema_name": "taxon",
+        "title": "Appeals and reductions",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-government-council-tax-appeals-and-reductions",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/regional-and-local-government/local-government-council-tax",
+        "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government-council-tax",
+        "base_path": "/regional-and-local-government/local-government-council-tax",
+        "content_id": "107b4fd7-fef4-4a86-9796-2967c95f3f3c",
+        "details": {
+          "internal_name": "Council Tax [T]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/regional-and-local-government/local-government",
+              "api_url": "https://www.gov.uk/api/content/regional-and-local-government/local-government",
+              "base_path": "/regional-and-local-government/local-government",
+              "content_id": "c914fd40-dd0a-45c4-a6ff-bce0cda31bde",
+              "details": {
+                "internal_name": "Local government (merged, Level 2)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/regional-and-local-government",
+                    "api_url": "https://www.gov.uk/api/content/regional-and-local-government",
+                    "base_path": "/regional-and-local-government",
+                    "content_id": "503c5bc7-809a-47b9-83e2-bd0c212dbabb",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Regional and local government",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2026-02-18T13:00:23Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:30:05Z",
+                    "schema_name": "taxon",
+                    "title": "Regional and local government",
+                    "web_url": "https://www.gov.uk/regional-and-local-government",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T13:09:38Z",
+              "schema_name": "taxon",
+              "title": "Local government",
+              "web_url": "https://www.gov.uk/regional-and-local-government/local-government",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:09:39Z",
+        "schema_name": "taxon",
+        "title": "Council Tax",
+        "web_url": "https://www.gov.uk/regional-and-local-government/local-government-council-tax",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/heating",
+        "api_url": "https://www.gov.uk/api/content/welfare/heating",
+        "base_path": "/welfare/heating",
+        "content_id": "6c4c443c-2e11-4d25-aa93-2e3a38d9499c",
+        "details": {
+          "internal_name": "Heating and housing benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2026-02-18T13:00:23Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Heating and housing benefits",
+        "web_url": "https://www.gov.uk/welfare/heating",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2022-05-27T08:44:02+01:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": "30759-1666796746.370-10.13.3.55-8930",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "local_transaction",
+  "title": "Apply for Council Tax Reduction",
+  "updated_at": "2026-02-23T17:08:50+00:00",
+  "withdrawn_notice": {}
+}

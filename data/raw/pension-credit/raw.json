@@ -1,0 +1,890 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/pension-credit",
+  "content_id": "36110496-f717-4ac9-9698-60601ab77454",
+  "description": "Pension Credit is extra money for pensioners to bring your weekly income up to a minimum amount - what you'll get, apply, eligibility.",
+  "details": {
+    "external_related_links": [],
+    "hide_chapter_navigation": false,
+    "parts": [
+      {
+        "body": "<p>Pension Credit gives you extra money to help with your living costs if you’re over State Pension age and on a low income. Pension Credit can also help with housing costs such as ground rent or service charges.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>This guide is also available in <a href=\"/credyd-pensiwn\">Welsh (Cymraeg)</a> and <a href=\"/government/publications/easy-read-pension-credit\">easy read format</a>.</p>\n</div>\n\n<p>You might get extra help if you’re a carer, severely disabled, or responsible for a child or young person.</p>\n\n<p>Pension Credit is separate from your State Pension.</p>\n\n<p>You can get Pension Credit even if you have other income, savings or own your own home.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>This guide covers Pension Credit in England, Scotland and Wales. <a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/understanding-pension-credit\">Find out about Pension Credit in Northern Ireland</a>.</p>\n</div>\n\n<h2 id=\"other-help-if-you-get-pension-credit\">Other help if you get Pension Credit</h2>\n\n<p>If you get Pension Credit you can also get other help, such as:</p>\n\n<ul>\n  <li>\n<a href=\"/housing-benefit\">Housing Benefit</a> if you rent the property you live in</li>\n  <li>\n<a href=\"/cold-weather-payment/eligibility\">Cold Weather Payments</a> (or <a rel=\"external\" href=\"https://www.mygov.scot/winter-heating-payment\">Winter Heating Payments</a> in Scotland)</li>\n  <li>\n<a href=\"/support-for-mortgage-interest\">Support for Mortgage Interest</a> if you own the property you live in</li>\n  <li>a <a href=\"/apply-council-tax-reduction\">Council Tax Reduction</a>\n</li>\n  <li>a <a href=\"/free-discount-tv-licence\">free TV licence</a> if you’re aged 75 or over</li>\n  <li>help with <a href=\"/help-nhs-costs\">NHS dental treatment, glasses and transport costs</a> for hospital appointments, if you get the Guarantee Credit part of Pension Credit</li>\n  <li>help with your heating costs through the <a href=\"/the-warm-home-discount-scheme\">Warm Home Discount Scheme</a>\n</li>\n  <li>a discount on the <a rel=\"external\" href=\"https://www.royalmail.com/receiving/redirection/concessions\">Royal Mail redirection service</a> if you’re moving house</li>\n</ul>\n",
+        "slug": "overview",
+        "title": "Overview"
+      },
+      {
+        "body": "<p>You must live in England, Scotland or Wales and have reached <a href=\"/calculate-state-pension\">State Pension age</a> to qualify for Pension Credit.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p><a rel=\"external\" href=\"https://www.nidirect.gov.uk/articles/understanding-pension-credit\">Find out about Pension Credit in Northern Ireland</a>.</p>\n</div>\n\n<p>If you’re from the EU, Switzerland, Norway, Iceland or Liechtenstein, you and your family usually also need settled or pre-settled status under the EU Settlement Scheme to get Pension Credit. The deadline to apply to the scheme was 30 June 2021 for most people, but you might still be able to apply. <a href=\"/settled-status-eu-citizens-families/who-can-apply\">Check if you can still apply to the EU Settlement Scheme</a>.</p>\n\n<h2 id=\"if-you-have-a-partner\">If you have a partner</h2>\n\n<p>You must include your partner on your application.</p>\n\n<p>You’ll be eligible if either:</p>\n\n<ul>\n  <li>you and your partner have both reached State Pension age</li>\n  <li>one of you is getting <a href=\"/housing-benefit\">Housing Benefit</a> for people over State Pension age</li>\n</ul>\n\n<p>A partner is either:</p>\n\n<ul>\n  <li>your husband, wife or civil partner - if you live with them</li>\n  <li>someone you live with as a couple, without being married or in a civil partnership</li>\n</ul>\n\n<h2 id=\"your-income\">Your income</h2>\n\n<p>When you apply for Pension Credit your income is calculated. If you have a partner, your income is calculated together.</p>\n\n<p>Pension Credit tops up:</p>\n\n<ul>\n  <li>your weekly income to £227.10 if you’re single</li>\n  <li>your joint weekly income to £346.60 if you have a partner</li>\n</ul>\n\n<p>If your income is higher, you might still be eligible for Pension Credit if you have a disability, you care for someone, you have savings or you have housing costs.</p>\n\n<h3 id=\"what-counts-as-income\">What counts as income</h3>\n\n<p>Your income includes:</p>\n\n<ul>\n  <li>State Pension</li>\n  <li>other pensions</li>\n  <li>earnings from employment and self-employment</li>\n  <li>most social security benefits, for example Carer’s Allowance</li>\n</ul>\n\n<h3 id=\"what-does-not-count-as-income\">What does not count as income</h3>\n\n<p>Not all benefits are counted as income. For example, the following are not counted:</p>\n\n<ul>\n  <li>Adult Disability Payment</li>\n  <li>Attendance Allowance</li>\n  <li>Child Benefit</li>\n  <li>Christmas Bonus</li>\n  <li>Council Tax Reduction</li>\n  <li>Disability Living Allowance</li>\n  <li>Housing Benefit</li>\n  <li>Pension Age Disability Payment</li>\n  <li>Personal Independence Payment</li>\n  <li>Scottish Adult Disability Living Allowance</li>\n  <li>social fund payments like Winter Fuel Payment</li>\n</ul>\n\n<h3 id=\"if-youve-deferred-your-pension\">If you’ve deferred your pension</h3>\n\n<p>If you’re entitled to a personal or workplace pension and you have not claimed it yet, the amount you’d expect to get still counts as income.</p>\n\n<p>If you’ve <a href=\"/deferring-state-pension\">deferred your State Pension</a>, the amount of State Pension you would get is counted as income.</p>\n\n<p>You cannot build up extra amounts for deferring your State Pension if you or your partner are getting Pension Credit.</p>\n\n<h3 id=\"your-savings-and-investments\">Your savings and investments</h3>\n\n<p>If you have £10,000 or less in savings and investments this will not affect your Pension Credit.</p>\n\n<p>If you have more than £10,000, every £500 over £10,000 counts as £1 income a week. For example, if you have £11,000 in savings, this counts as £2 income a week.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p><a href=\"/pension-credit/change-of-circumstances\">Contact the Pension Service helpline</a> if your circumstances change.</p>\n</div>\n\n<h2 id=\"if-youre-away-from-great-britain\">If you’re away from Great Britain</h2>\n\n<p>You can continue to get Pension Credit if you’re away from Great Britain for 4 weeks or less - for example, on a holiday.</p>\n\n<p>You must:</p>\n\n<ul>\n  <li>be eligible for Pension Credit when you go away</li>\n  <li>remain eligible for it while you’re away</li>\n  <li>\n<a href=\"/pension-credit/change-of-circumstances\">contact the Pension Service helpline</a> to tell them you’re going away</li>\n</ul>\n\n<p>You can get Pension Credit for up to 4 more weeks if:</p>\n\n<ul>\n  <li>you’re away from Great Britain because of the death of a close relative</li>\n  <li>a close relative dies while you’re away and you cannot reasonably return to the UK</li>\n</ul>\n\n<p>You cannot apply for Pension Credit if you’re already outside Great Britain.</p>\n\n<p>You cannot get Pension Credit if you’re moving away from Great Britain permanently.</p>\n\n<h3 id=\"leaving-great-britain-for-medical-treatment\">Leaving Great Britain for medical treatment</h3>\n\n<p>You can continue to get Pension Credit for up to 26 weeks if:</p>\n\n<ul>\n  <li>you’ve left Great Britain for medical treatment</li>\n  <li>you’ve left Great Britain for a period of recovery that’s been approved by a medical professional (also known as ‘approved convalescence’)</li>\n  <li>your partner or child is leaving Great Britain for medical treatment or ‘approved convalescence’ and you’re going with them</li>\n</ul>\n\n<h2 id=\"check-your-eligibility\">Check your eligibility</h2>\n\n<p>You might be able to use the <a href=\"/pension-credit-calculator\">Pension Credit calculator</a> to check your eligibility and get an estimate of how much you could get.</p>\n\n",
+        "slug": "eligibility",
+        "title": "Eligibility"
+      },
+      {
+        "body": "<p>Pension Credit tops up:</p>\n\n<ul>\n  <li>your weekly income to £227.10 if you’re single</li>\n  <li>your joint weekly income to £346.60 if you have a partner</li>\n</ul>\n\n<p>You may get extra amounts if you have other responsibilities and costs.</p>\n\n<p>The top up and extra amounts are known as ‘Guarantee Credit’.</p>\n\n<h2 id=\"if-you-have-a-severe-disability\">If you have a severe disability</h2>\n\n<p>You could get an extra £82.90 a week if you get any of the following:</p>\n\n<ul>\n  <li>Attendance Allowance</li>\n  <li>the middle or highest rate of the care component of Disability Living Allowance (<abbr title=\"Disability Living Allowance\">DLA</abbr>)</li>\n  <li>the daily living component of Personal Independence Payment (<abbr title=\"Personal Independence Payment\">PIP</abbr>)</li>\n  <li>Armed Forces Independence Payment</li>\n  <li>the daily living component of Adult Disability Payment</li>\n  <li>Pension Age Disability Payment</li>\n  <li>the middle or highest rate of the care component of Scottish Adult Disability Living Allowance</li>\n</ul>\n\n<h2 id=\"if-you-care-for-another-adult\">If you care for another adult</h2>\n\n<p>You could get an extra £46.40 a week if:</p>\n\n<ul>\n  <li>you get Carer’s Allowance</li>\n  <li>you get Carer Support Payment</li>\n  <li>you’ve claimed Carer’s Allowance but are not being paid because you already get another benefit paying a higher amount</li>\n</ul>\n\n<p>If you and your partner have both claimed or are getting Carer’s Allowance, you can both get this extra amount.</p>\n\n<h2 id=\"if-youre-responsible-for-children-or-young-people\">If you’re responsible for children or young people</h2>\n\n<p>You could get an extra amount for each child or young person you’re responsible for who lives with you.</p>\n\n<p>You’ll get £67.42 a week for each child or young person. This is increased to £78.10 a week for the first child if they were born before 6 April 2017.</p>\n\n<p>You will get the extra amount until the 31 August after their:</p>\n\n<ul>\n  <li>16th birthday</li>\n  <li>19th birthday, if they’re in eligible education or training – for example, they’re studying for GCSEs, A levels, BTECs, Scottish Highers and SVQs or NVQs up to level 3</li>\n</ul>\n\n<p>If they’re in education, it must be for more than 12 hours a week on average.</p>\n\n<h3 id=\"if-the-child-or-young-person-is-disabled\">If the child or young person is disabled</h3>\n\n<p>If the child or young person is disabled, you could also get an extra amount. </p>\n\n<p>You could get an extra £36.54 a week if the child or young person gets:</p>\n\n<ul>\n  <li>Disability Living Allowance (<abbr title=\"Disability Living Allowance\">DLA</abbr>) for children - lowest or middle rate of the care component or any rate of the mobility component</li>\n  <li>Child Disability Payment - lowest or middle rate of the care component or any rate of the mobility component</li>\n  <li>Scottish Adult Disability Living Allowance - lowest or middle rate of the care component or any rate of the mobility component</li>\n  <li>Personal Independence Payment (<abbr title=\"Personal Independence Payment\">PIP</abbr>) - standard rate of the daily living component or any rate of the mobility component</li>\n  <li>Adult Disability Payment - standard rate of the daily living component or any rate of the mobility component </li>\n</ul>\n\n<p>You could get an extra £114.12 a week if the child or young person gets:</p>\n\n<ul>\n  <li>Disability Living Allowance (<abbr title=\"Disability Living Allowance\">DLA</abbr>) for children - highest rate of the care component</li>\n  <li>Child Disability Payment - highest rate of the care component</li>\n  <li>Scottish Adult Disability Living Allowance - highest rate of the care component</li>\n  <li>Personal Independence Payment (<abbr title=\"Personal Independence Payment\">PIP</abbr>) - enhanced rate of the daily living component</li>\n  <li>Adult Disability Payment - enhanced rate of the daily living component</li>\n</ul>\n\n<p>You might also be eligible if they’re blind or severely sight impaired.</p>\n\n<h2 id=\"if-you-have-housing-costs\">If you have housing costs</h2>\n\n<p>You could get an extra amount to cover your housing costs, such as:</p>\n\n<ul>\n  <li>ground rent if your property is a leasehold</li>\n  <li>some service charges</li>\n  <li>charges for tents and site rents</li>\n</ul>\n\n<p>The amount you could get depends on your housing costs.</p>\n\n<p>If you get Pension Credit, you could also be eligible for:</p>\n\n<ul>\n  <li><a href=\"/apply-council-tax-reduction\">Council Tax Reduction</a></li>\n  <li>\n<a href=\"/housing-benefit\">Housing Benefit</a> if you rent the property you live in</li>\n  <li>\n<a href=\"/support-for-mortgage-interest\">Support for Mortgage Interest</a> if you own the property you live in</li>\n</ul>\n\n<h2 id=\"if-you-have-savings-or-a-second-pension\">If you have savings or a second pension</h2>\n\n<p>You could get the ‘Savings Credit’ part of Pension Credit if both of the following apply:</p>\n\n<ul>\n  <li>you reached State Pension age before 6 April 2016</li>\n  <li>you saved some money for retirement, for example a personal or workplace pension</li>\n</ul>\n\n<p>You’ll get up to £17.30 Savings Credit a week if you’re single. If you have a partner, you’ll get up to £19.36 a week.</p>\n\n<p>You might still get some Savings Credit even if you do not get the Guarantee Credit part of Pension Credit.</p>\n\n<h2 id=\"other-help-if-you-get-pension-credit\">Other help if you get Pension Credit</h2>\n\n<p>If you get Pension Credit you’ll automatically get <a href=\"/cold-weather-payment\">cold weather payments</a>.</p>\n\n<p>You’ll also be eligible to:</p>\n\n<ul>\n  <li>\n<a href=\"/free-discount-tv-licence\">apply for a free TV licence</a> if you’re aged 75 or over</li>\n  <li>\n<a href=\"/help-nhs-costs\">get help with NHS costs</a> if you get the Guarantee Credit part of Pension Credit</li>\n</ul>\n\n<p>NHS costs can include things such as prescriptions, dental treatment, glasses and transport costs for hospital appointments.</p>\n\n<h2 id=\"find-out-how-much-you-could-get\">Find out how much you could get</h2>\n\n<p>You might be able to use the <a href=\"/pension-credit-calculator\">Pension Credit calculator</a> to get an estimate of how much you could get.</p>\n\n<p>Contact the Pension Service helpline if you’re not sure whether you’re eligible for extra amounts.</p>\n\n<div class=\"contact\">\n<p>Pension Service helpline<br>\nTelephone: 0800 99 1234 <br>\n<a href=\"https://www.relayuk.bt.com\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 99 1234<br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a><br>\nMonday to Friday, 8am to 6pm (except public holidays)<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"how-youre-paid\">How you’re paid</h2>\n\n<p>All benefits, pensions and allowances are usually <a href=\"/how-to-have-your-benefits-paid\">paid into an account</a>, for example a bank account.</p>\n\n",
+        "slug": "what-youll-get",
+        "title": "What you'll get"
+      },
+      {
+        "body": "<p>Before you apply for Pension Credit, <a href=\"/pension-credit/eligibility\">check if you’re eligible</a>.</p>\n\n<h2 id=\"when-you-can-apply\">When you can apply</h2>\n\n<p>You can start your application up to 4 months before you reach <a href=\"/state-pension-age\">State Pension age</a>.</p>\n\n<p>You can apply any time after you reach State Pension age but your application can only be backdated by 3 months. This means you can get up to 3 months of Pension Credit in your first payment if you were eligible during that time.</p>\n\n<h2 id=\"information-youll-need\">Information you’ll need</h2>\n\n<p>You’ll need the following information about you and your partner if you have one:</p>\n\n<ul>\n  <li>National Insurance number</li>\n  <li>information about any income, savings and investments you have</li>\n  <li>information about your income, savings and investments on the date you want to backdate your application to (usually 3 months ago or the date you reached State Pension age)</li>\n</ul>\n\n<p>You’ll also need your bank account details. Depending on how you apply, you may also be asked for your bank or building society name, sort code and account number.</p>\n\n<h2 id=\"apply-online\">Apply online</h2>\n\n<p>You can use the online service if you have already applied for your State Pension.</p>\n\n<p><a class=\"gem-c-button govuk-button govuk-button--start\" role=\"button\" data-module=\"govuk-button\" data-ga4-attributes='{\"event_name\":\"navigation\",\"type\":\"start button\"}' draggable=\"false\" href=\"https://apply-for-pension-credit.service.gov.uk/\"><span> Apply now </span><svg class=\"govuk-button__start-icon govuk-!-display-none-print\" xmlns=\"http://www.w3.org/2000/svg\" width=\"17.5\" height=\"19\" viewbox=\"0 0 33 40\" focusable=\"false\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M0 0h13l20 20-20 20H0l20-20z\"></path></svg></a></p>\n\n<h2 id=\"apply-by-phone\">Apply by phone</h2>\n\n<p>A friend or family member can call for you if you cannot use the phone.</p>\n\n<div class=\"contact\">\n<p>Pension Credit claim line<br>\nTelephone: 0800 99 1234<br>\n<a href=\"https://www.relayuk.bt.com\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 99 1234<br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a><br>\nMonday to Friday, 8am to 6pm<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<h2 id=\"apply-by-post\">Apply by post</h2>\n\n<p>To apply by post, <a href=\"/government/publications/pension-credit-claim-form--2\">print out and fill in the Pension Credit claim form</a> or call the claim line to request a form.</p>\n\n<p>Send the claim form to the Pension Service, or ask someone to do it for you.</p>\n\n<div class=\"address\"><div class=\"adr org fn\"><p>\nFreepost DWP Pensions Service 3\n</p></div></div>\n\n<p>Do not write anything except the freepost address on the envelope. You do not need a postcode or a stamp.</p>\n\n<p>Contact a voluntary organisation like <a rel=\"external\" href=\"https://www.citizensadvice.org.uk\">Citizens Advice</a> or <a rel=\"external\" href=\"https://www.ageuk.org.uk/information-advice/money-legal/benefits-entitlements/pension-credit/\">Age UK</a> if you need help with the form.</p>\n\n<h2 id=\"if-you-disagree-with-a-decision\">If you disagree with a decision</h2>\n\n<p>You can <a href=\"/mandatory-reconsideration\">challenge a decision</a> about your Pension Credit application. This is called asking for mandatory reconsideration.</p>\n",
+        "slug": "how-to-claim",
+        "title": "How to claim"
+      },
+      {
+        "body": "<p>You need to report changes to you and your partner’s personal and financial circumstances.</p>\n\n<p>Your claim might be stopped or reduced if you do not report a change straight away. Some changes will increase the amount of Pension Credit you could get.</p>\n\n<h2 id=\"changes-to-your-personal-circumstances\">Changes to your personal circumstances</h2>\n\n<p>A change of personal circumstances can include:</p>\n\n<ul>\n  <li>moving to a new address</li>\n  <li>starting or stopping living with a partner</li>\n  <li>the death of a partner who is named on your claim</li>\n  <li>starting or stopping work</li>\n  <li>going into hospital or a care home</li>\n  <li>people moving in or out of your house</li>\n  <li>changing your name</li>\n  <li>switching your bank account</li>\n  <li>changes to your Post Office card account</li>\n  <li>leaving England, Scotland and Wales for any period (for example, going on holiday)</li>\n  <li>you start or stop looking after a child or young person under the age of 20</li>\n  <li>changes to your immigration status, if you’re not a British citizen</li>\n</ul>\n\n<p>If you go into a care home for more than 4 weeks, you’ll also need to report if:</p>\n\n<ul>\n  <li>there’s a change to the way your care home fees are funded (for example, you start or stop getting funding from the NHS or local council)</li>\n  <li>you were staying in the care home temporarily and you become a permanent resident</li>\n  <li>you move to another care home</li>\n  <li>you go into hospital</li>\n</ul>\n\n<h2 id=\"changes-to-your-financial-circumstances\">Changes to your financial circumstances</h2>\n\n<p>You also need to report if your income or expenses change. This can include changes to:</p>\n\n<ul>\n  <li>housing costs, for example ground rent or service charges</li>\n  <li>benefits that anyone living in your home gets - including getting a new benefit or a benefit being stopped</li>\n  <li>occupational or personal pensions - including if you start to get a new pension or take a lump sum out of your pension pot</li>\n  <li>other income, for example, foreign pensions</li>\n  <li>savings, investments or property</li>\n</ul>\n\n<p>Call the Pension Credit helpline if you’re not sure if you need to report a change.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You could be taken to court or have to pay a penalty if you give wrong information or do not report a change in your circumstances.</p>\n</div>\n\n<h2 id=\"how-to-report-a-change\">How to report a change</h2>\n\n<div class=\"contact\">\n<p>Pension Service helpline<br>\nTelephone: 0800 731 0469 <br>\n<a href=\"https://www.relayuk.bt.com\">Relay UK</a> (if you cannot hear or speak on the phone): 18001 then 0800 731 0469<br>\nBritish Sign Language (BSL) <a href=\"https://connect.interpreterslive.co.uk/vrs?ilc=DWP\">video relay service</a> if you’re on a computer - find out how to <a href=\"https://www.youtube.com/watch?v=oELNMfAvDxw\">use the service on mobile or tablet</a><br>\nMonday to Friday, 8am to 6pm (except public holidays)<br>\n<a href=\"/call-charges\">Find out about call charges</a></p>\n</div>\n\n<p>You can also report by post. The address is on the letters you get about your Pension Credit.</p>\n\n<h2 id=\"living-with-a-partner-under-state-pension-age\">Living with a partner under State Pension age</h2>\n\n<p>You will stop getting Pension Credit if you start living with a partner who is under State Pension age. You can start getting it again when your partner reaches State Pension age.</p>\n\n<p>If you were living with a partner under State Pension age before 15 May 2019 and getting Pension Credit, you’ll keep getting it unless you stop being eligible. If this happens, you usually will not be able to get Pension Credit again until you and your partner are <a href=\"/pension-credit/eligibility\">both eligible</a>.</p>\n\n<p>If you cannot get Pension Credit, you might be entitled to <a href=\"/universal-credit\">Universal Credit</a> instead, but you and your partner cannot get both at the same time. If one of you starts getting Universal Credit you’ll stop being eligible for Pension Credit.</p>\n\n<h2 id=\"if-you-have-an-assessed-income-period-aip\">If you have an Assessed Income Period (<abbr title=\"Assessed Income Period\">AIP</abbr>)</h2>\n\n<p>An <abbr title=\"Assessed Income Period\">AIP</abbr> is a period of time when you do not have to report changes to your pensions, savings or investments.</p>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>If you have an <abbr title=\"Assessed Income Period\">AIP</abbr> you must still report all other changes to your personal circumstances.</p>\n</div>\n\n<p>Your Pension Credit award letter will tell you if you have an <abbr title=\"Assessed Income Period\">AIP</abbr>. You may have one if you’re aged 75 or over and you started getting Pension Credit before 6 April 2016.</p>\n\n<p>Your <abbr title=\"Assessed Income Period\">AIP</abbr> will end if your household circumstances change, for example if you move into a care home or if you become a member of a couple.</p>\n\n<p>You’ll get a letter saying your <abbr title=\"Assessed Income Period\">AIP</abbr> has ended. From then on, you must report all changes to your circumstances, including changes to your pensions, savings or investments.</p>\n\n<p>Call the Pension Service helpline if you’re not sure if you need to report a change.</p>\n\n<h2 id=\"if-youve-been-paid-too-much\">If you’ve been paid too much</h2>\n\n<p>You may have to repay the money if you:</p>\n\n<ul>\n  <li>did not report a change straight away</li>\n  <li>gave wrong information</li>\n  <li>were overpaid by mistake</li>\n</ul>\n\n<p>Find out how to <a href=\"/benefit-overpayments\">repay the money you owe from benefit overpayment</a>.</p>\n\n",
+        "slug": "change-of-circumstances",
+        "title": "Report a change of circumstances"
+      }
+    ]
+  },
+  "document_type": "guide",
+  "first_published_at": "2011-12-21T14:47:32+00:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/pension-credit",
+        "api_url": "https://www.gov.uk/api/content/pension-credit",
+        "base_path": "/pension-credit",
+        "content_id": "36110496-f717-4ac9-9698-60601ab77454",
+        "document_type": "guide",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-10-14T10:06:35Z",
+        "schema_name": "guide",
+        "title": "Pension Credit",
+        "web_url": "https://www.gov.uk/pension-credit",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/help-for-carers",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+        "base_path": "/browse/benefits/help-for-carers",
+        "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+        "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-07-09T15:44:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're caring for someone",
+        "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/looking-for-work",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+        "base_path": "/browse/benefits/looking-for-work",
+        "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+        "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:43Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're looking for work",
+        "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/disabilities/carers",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+        "base_path": "/browse/disabilities/carers",
+        "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+        "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-07-09T14:03:53Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Caring for someone",
+        "web_url": "https://www.gov.uk/browse/disabilities/carers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/working/state-pension",
+        "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+        "base_path": "/browse/working/state-pension",
+        "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/browse/working/state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/working/workplace-personal-pensions",
+        "api_url": "https://www.gov.uk/api/content/browse/working/workplace-personal-pensions",
+        "base_path": "/browse/working/workplace-personal-pensions",
+        "content_id": "bc5ca140-2539-4ec2-8733-9e0acb02f912",
+        "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-10-16T15:48:22Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Workplace and personal pensions",
+        "web_url": "https://www.gov.uk/browse/working/workplace-personal-pensions",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/state-pension",
+        "api_url": "https://www.gov.uk/api/content/state-pension",
+        "base_path": "/state-pension",
+        "content_id": "fb626a9c-02bf-4f30-a4d9-0db6807605f1",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/working/state-pension",
+              "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+              "base_path": "/browse/working/state-pension",
+              "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+              "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:19Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "State Pension",
+              "web_url": "https://www.gov.uk/browse/working/state-pension",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2015-03-17T18:23:25Z",
+        "schema_name": "guide",
+        "title": "The basic State Pension",
+        "web_url": "https://www.gov.uk/state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "api_url": "https://www.gov.uk/api/content/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "base_path": "/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "content_id": "7621b67d-30fa-4754-bc85-f7e0548b0235",
+        "document_type": "detailed_guide",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-09-30T14:59:03Z",
+        "schema_name": "detailed_guide",
+        "title": "Get help with benefits and pensions if you have accessibility needs",
+        "web_url": "https://www.gov.uk/guidance/get-help-with-benefits-and-pensions-if-you-have-accessibility-needs",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/going-into-care-home-benefits",
+        "api_url": "https://www.gov.uk/api/content/going-into-care-home-benefits",
+        "base_path": "/going-into-care-home-benefits",
+        "content_id": "c12d47ac-5a54-4a16-8830-68484bbc86b7",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-07-09T10:19:02Z",
+        "schema_name": "guide",
+        "title": "Claiming benefits if you’re going into a care home",
+        "web_url": "https://www.gov.uk/going-into-care-home-benefits",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "parent": [
+      {
+        "api_path": "/api/content/browse/working/state-pension",
+        "api_url": "https://www.gov.uk/api/content/browse/working/state-pension",
+        "base_path": "/browse/working/state-pension",
+        "content_id": "57356c7f-feb7-4b18-8bda-e2274307186b",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "document_type": "mainstream_browse_page",
+        "links": {
+          "parent": [
+            {
+              "api_path": "/api/content/browse/working",
+              "api_url": "https://www.gov.uk/api/content/browse/working",
+              "base_path": "/browse/working",
+              "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+              "description": "Includes holidays, finding a job and redundancy",
+              "document_type": "mainstream_browse_page",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2021-07-09T12:54:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/browse/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:19Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/browse/working/state-pension",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "government-digital-service",
+          "default_news_image": null,
+          "logo": {
+            "crest": "gds",
+            "formatted_title": "Government<br/>Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "related_to_step_navs": [
+      {
+        "api_path": "/api/content/plan-for-retirement",
+        "api_url": "https://www.gov.uk/api/content/plan-for-retirement",
+        "base_path": "/plan-for-retirement",
+        "content_id": "c0ff9296-e91e-40d1-97bd-008026e90426",
+        "details": {
+          "step_by_step_nav": {
+            "steps": [
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/state-pension-age",
+                        "text": "Check what age you can get your State Pension"
+                      },
+                      {
+                        "href": "/working-retirement-pension-age",
+                        "text": "Find out about working after you reach State Pension age"
+                      },
+                      {
+                        "href": "/early-retirement-pension/personal-and-workplace-pensions",
+                        "text": "Find out if you can retire early with your workplace or personal pension"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Check when you can retire"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/check-state-pension",
+                        "text": "Find out how much State Pension you could get (your forecast)"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You may also be paying into a:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/workplace-pensions",
+                        "text": "workplace pension"
+                      },
+                      {
+                        "href": "/pension-types",
+                        "text": "personal pension"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/tax-on-pension",
+                        "text": "Find out if you’ll pay tax on your pension"
+                      },
+                      {
+                        "href": "/find-pension-contact-details",
+                        "text": "Find contact details for a lost pension"
+                      },
+                      {
+                        "href": "/state-pension-if-you-retire-abroad/rates-of-state-pension",
+                        "text": "Check how your pension is affected if you retire abroad"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "logic": "and",
+                "title": "Check how much pension you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "You might be able to increase the amount you get if you delay your pension.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/deferring-state-pension",
+                        "text": "Find out about delaying your pension"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "You might be able to pay voluntary contributions to fill in gaps in your National Insurance record (such as, from when you were not working or claiming benefits). ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/voluntary-national-insurance-contributions/who-can-pay-voluntary-contributions",
+                        "text": "Check if you can pay voluntary National Insurance contributions"
+                      }
+                    ],
+                    "type": "list"
+                  },
+                  {
+                    "text": "For advice about increasing your workplace or private pension, speak to a financial adviser.",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "https://www.unbiased.co.uk/",
+                        "text": "Find a financial adviser through Unbiased"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Increase your pension"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "Check what financial help you could get if you:",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/pension-credit",
+                        "text": "are on a low income"
+                      },
+                      {
+                        "href": "/housing-benefit",
+                        "text": "need help paying your rent"
+                      },
+                      {
+                        "href": "/winter-fuel-payment",
+                        "text": "need help paying your heating bill"
+                      },
+                      {
+                        "href": "/cold-weather-payment",
+                        "text": "are claiming benefits and the weather is cold"
+                      },
+                      {
+                        "href": "/attendance-allowance",
+                        "text": "are disabled"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  },
+                  {
+                    "text": "You can also get free bus travel if you: ",
+                    "type": "paragraph"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "href": "/apply-for-elderly-person-bus-pass",
+                        "text": "apply for a bus pass"
+                      }
+                    ],
+                    "style": "choice",
+                    "type": "list"
+                  }
+                ],
+                "title": "Check what other financial support you could get"
+              },
+              {
+                "contents": [
+                  {
+                    "contents": [
+                      {
+                        "href": "/plan-retirement-income/get-financial-advice",
+                        "text": "Get advice on planning your pension and deciding when to retire"
+                      }
+                    ],
+                    "type": "list"
+                  }
+                ],
+                "title": "Decide when to retire "
+              }
+            ],
+            "title": "Plan your retirement income: step by step"
+          }
+        },
+        "document_type": "step_by_step_nav",
+        "links": {
+          "pages_related_to_step_nav": [
+            {
+              "api_path": "/api/content/pension-credit",
+              "api_url": "https://www.gov.uk/api/content/pension-credit",
+              "base_path": "/pension-credit",
+              "content_id": "36110496-f717-4ac9-9698-60601ab77454",
+              "document_type": "guide",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2024-10-14T10:06:35Z",
+              "schema_name": "guide",
+              "title": "Pension Credit",
+              "web_url": "https://www.gov.uk/pension-credit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-10-31T15:06:18Z",
+        "schema_name": "step_by_step_nav",
+        "title": "Plan your retirement income: step by step",
+        "web_url": "https://www.gov.uk/plan-for-retirement",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/welfare/entitlement",
+        "api_url": "https://www.gov.uk/api/content/welfare/entitlement",
+        "base_path": "/welfare/entitlement",
+        "content_id": "536f83c0-8c67-47a3-88a4-d5b1eda591ed",
+        "details": {
+          "internal_name": "Benefits entitlement [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:40Z",
+        "schema_name": "taxon",
+        "title": "Benefits entitlement",
+        "web_url": "https://www.gov.uk/welfare/entitlement",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/jobseekers-allowance",
+        "api_url": "https://www.gov.uk/api/content/welfare/jobseekers-allowance",
+        "base_path": "/welfare/jobseekers-allowance",
+        "content_id": "2a1bd1b1-5025-4313-9e5b-8352dd46f1d6",
+        "details": {
+          "internal_name": "Jobseeker's Allowance and low income benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:40Z",
+        "schema_name": "taxon",
+        "title": "Jobseeker's Allowance and low income benefits",
+        "web_url": "https://www.gov.uk/welfare/jobseekers-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/working-state-pension",
+        "api_url": "https://www.gov.uk/api/content/employment/working-state-pension",
+        "base_path": "/employment/working-state-pension",
+        "content_id": "f8b6d54b-cc94-4b32-aac4-8cd344087407",
+        "description": "Calculating State Pension, Pension Credit, eligibility, claiming and deferring",
+        "details": {
+          "internal_name": "State Pension [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "State Pension",
+        "web_url": "https://www.gov.uk/employment/working-state-pension",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment/workplace-personal-pensions",
+        "api_url": "https://www.gov.uk/api/content/employment/workplace-personal-pensions",
+        "base_path": "/employment/workplace-personal-pensions",
+        "content_id": "a99fc39c-997a-4b1a-9e6d-8cf63a3100be",
+        "description": "Includes automatic enrolment, lost pensions and planning for retirement",
+        "details": {
+          "internal_name": "Workplace and personal pensions [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/employment/working",
+              "api_url": "https://www.gov.uk/api/content/employment/working",
+              "base_path": "/employment/working",
+              "content_id": "092348a4-b896-4f8f-a0dc-e6d4605a4904",
+              "description": "Includes holidays and finding a job",
+              "details": {
+                "internal_name": "Working, jobs and pensions [M] (merged, level 2, work theme)",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/work",
+                    "api_url": "https://www.gov.uk/api/content/work",
+                    "base_path": "/work",
+                    "content_id": "d0f1e5a3-c8f4-4780-8678-994f19104b21",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Work",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:33:40Z",
+                    "schema_name": "taxon",
+                    "title": "Work",
+                    "web_url": "https://www.gov.uk/work",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T11:08:23Z",
+              "schema_name": "taxon",
+              "title": "Working, jobs and pensions",
+              "web_url": "https://www.gov.uk/employment/working",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T11:08:23Z",
+        "schema_name": "taxon",
+        "title": "Workplace and personal pensions",
+        "web_url": "https://www.gov.uk/employment/workplace-personal-pensions",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2024-10-14T11:06:35+01:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1770380540.188-10.13.20.197-2623",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "guide",
+  "title": "Pension Credit",
+  "updated_at": "2026-02-06T12:22:22+00:00",
+  "withdrawn_notice": {}
+}

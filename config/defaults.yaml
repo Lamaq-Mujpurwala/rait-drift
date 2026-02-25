@@ -1,0 +1,109 @@
+# Default metric parameters — all configurable via dashboard toggles
+# See System Design Document Section 4.2 for toggle specifications
+
+trci:
+  canary_path: "config/canary_queries.json"
+  probe_frequency: "daily"          # hourly | daily | weekly
+  similarity_metric: "cosine"       # cosine | jaccard | bleu | bertscore
+  green_threshold: 0.95
+  amber_threshold: 0.90
+  red_p10_threshold: 0.80
+  canary_count: 50
+
+cds:
+  reference_window_days: 30
+  current_window_days: 7
+  jsd_bins: 50
+  persistence_threshold: 3          # consecutive windows
+  green_threshold: 0.05
+  amber_threshold: 0.15
+  red_threshold: 0.30
+  normalise_weights: true
+  descriptors:
+    response_length:
+      weight: 0.15
+      type: "continuous"
+      enabled: true
+    response_sentiment:
+      weight: 0.10
+      type: "continuous"
+      enabled: true
+    response_readability:
+      weight: 0.10
+      type: "continuous"
+      enabled: true
+    citation_count:
+      weight: 0.15
+      type: "discrete"
+      enabled: true
+    hedge_word_count:
+      weight: 0.10
+      type: "discrete"
+      enabled: true
+    refusal_flag:
+      weight: 0.15
+      type: "binary"
+      enabled: true
+    response_latency_ms:
+      weight: 0.10
+      type: "continuous"
+      enabled: true
+    mean_retrieval_distance:
+      weight: 0.10
+      type: "continuous"
+      enabled: true
+    context_token_ratio:
+      weight: 0.05
+      type: "continuous"
+      enabled: true
+
+fds:
+  sample_size: 10
+  sampling_strategy: "stratified"   # random | stratified | recent
+  decomposition_model: "judge"      # uses judge model from llm config
+  verification_strictness: "moderate"  # strict | moderate | lenient
+  include_ambiguous: false
+  signed_jsd_bins: 20
+  green_threshold: 0.02
+  amber_threshold: 0.10
+  red_threshold: 0.20
+  calibration_enabled: true
+  calibration_rho_threshold: 0.6
+
+ddi:
+  min_segment_size: 20
+  quality_proxy_weights:
+    completeness: 0.4
+    citation: 0.3
+    non_refusal: 0.2
+    latency: 0.1
+  formula: "std"                    # std | range | cv | max_min_ratio
+  intersectional_threshold: 0.20
+  green_threshold: 0.05
+  amber_threshold: 0.15
+  red_threshold: 0.30
+
+llm:
+  primary:
+    model: "groq/llama-3.3-70b-versatile"
+    temperature: 0.1
+    max_tokens: 1024
+  judge:
+    model: "groq/llama-3.1-8b-instant"
+    temperature: 0.0
+    max_tokens: 512
+  fallback:
+    model: "groq/llama-3.1-8b-instant"
+    temperature: 0.1
+    max_tokens: 1024
+
+ingestion:
+  chunk_max_tokens: 1024
+  chunk_overlap_tokens: 128
+  pinecone_batch_size: 90
+  pinecone_namespace: "govuk"
+  pinecone_index: "rait-chatbot"
+
+retrieval:
+  top_k: 10
+  context_window: 5

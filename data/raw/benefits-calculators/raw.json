@@ -1,0 +1,1819 @@
+{
+  "analytics_identifier": null,
+  "base_path": "/benefits-calculators",
+  "content_id": "1a1bc147-c02b-4cad-a415-ccbcecec8cbf",
+  "description": "Find out what benefits you could get, how much you could get and how to claim ",
+  "details": {
+    "body": "<p>You can use an independent, free and anonymous benefits calculator to check what you could be entitled to. This will give you an estimate of:</p>\n\n<ul>\n  <li>the benefits you could get</li>\n  <li>how much your benefit payments could be</li>\n  <li>how your benefits will be affected if you start work or increase your hours</li>\n  <li>how your benefits will be affected if your circumstances change - for example, if you have a child or move in with your partner</li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>This guide is also available <a href=\"/cyfrifiannell-budd-daliadau\">in Welsh (Cymraeg)</a>.</p>\n</div>\n\n<h2 id=\"calculators\">Calculators</h2>\n\n<p>For information on income-related benefits, contribution-based benefits, Universal Credit, Council Tax Reduction and Carer’s Allowance use:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://benefits-calculator.turn2us.org.uk/?utm_source=dwp&amp;utm_medium=referral&amp;utm_campaign=ip&amp;utm_term=bc_web\">Turn2us benefits calculator</a></li>\n  <li><a rel=\"external\" href=\"https://www.betteroffcalculator.co.uk/login\">Policy in Practice better off calculator</a></li>\n  <li><a rel=\"external\" href=\"https://www.entitledto.co.uk/?utm_source=BAdviser&amp;utm_medium=referral&amp;utm_campaign=GovUK\">entitledto benefits calculator</a></li>\n</ul>\n\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n  <p>You can also check with a <a rel=\"external\" href=\"https://advicelocal.uk/find-an-adviser\">local benefits adviser</a> to find out what you could be entitled to.</p>\n</div>\n\n<h2 id=\"what-youll-need\">What you’ll need</h2>\n\n<p>You’ll need accurate information about your:</p>\n\n<ul>\n  <li>savings</li>\n  <li>income, including your partner’s (from payslips, for example)</li>\n  <li>existing benefits and pensions (including anyone living with you)</li>\n  <li>outgoings (such as rent, mortgage, childcare payments)</li>\n  <li>Council Tax bill</li>\n</ul>\n\n<h2 id=\"who-cannot-use-them\">Who cannot use them</h2>\n\n<p>You cannot use the calculators if you’re under 18, and they will not give accurate results if you’re:</p>\n\n<ul>\n  <li><a href=\"/benefits-and-prison\">a prisoner</a></li>\n  <li><a href=\"/student-finance/extra-help\">a student</a></li>\n  <li>not a British or Irish citizen</li>\n  <li>on strike</li>\n  <li><a href=\"/claim-benefits-abroad\">living outside the UK</a></li>\n  <li>living permanently in residential care or a nursing home</li>\n</ul>\n\n",
+    "external_related_links": []
+  },
+  "document_type": "answer",
+  "first_published_at": "2012-01-25T15:29:06+00:00",
+  "links": {
+    "available_translations": [
+      {
+        "api_path": "/api/content/benefits-calculators",
+        "api_url": "https://www.gov.uk/api/content/benefits-calculators",
+        "base_path": "/benefits-calculators",
+        "content_id": "1a1bc147-c02b-4cad-a415-ccbcecec8cbf",
+        "document_type": "answer",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-11-05T00:01:02Z",
+        "schema_name": "answer",
+        "title": "Benefits calculators",
+        "web_url": "https://www.gov.uk/benefits-calculators",
+        "withdrawn": false
+      }
+    ],
+    "document_collections": [
+      {
+        "api_path": "/api/content/government/collections/universal-credit-information-for-employers",
+        "api_url": "https://www.gov.uk/api/content/government/collections/universal-credit-information-for-employers",
+        "base_path": "/government/collections/universal-credit-information-for-employers",
+        "content_id": "73e187f8-367c-45c4-ba79-f2abf5a786f6",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/benefits-calculators",
+              "api_url": "https://www.gov.uk/api/content/benefits-calculators",
+              "base_path": "/benefits-calculators",
+              "content_id": "1a1bc147-c02b-4cad-a415-ccbcecec8cbf",
+              "document_type": "answer",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2024-11-05T00:01:02Z",
+              "schema_name": "answer",
+              "title": "Benefits calculators",
+              "web_url": "https://www.gov.uk/benefits-calculators",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-09-04T15:13:23Z",
+        "schema_name": "document_collection",
+        "title": "Universal Credit: information for employers",
+        "web_url": "https://www.gov.uk/government/collections/universal-credit-information-for-employers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/universal-credit-information-for-landlords",
+        "api_url": "https://www.gov.uk/api/content/government/collections/universal-credit-information-for-landlords",
+        "base_path": "/government/collections/universal-credit-information-for-landlords",
+        "content_id": "913a78d6-4f55-4925-9131-d0e498d0cb5a",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/benefits-calculators",
+              "api_url": "https://www.gov.uk/api/content/benefits-calculators",
+              "base_path": "/benefits-calculators",
+              "content_id": "1a1bc147-c02b-4cad-a415-ccbcecec8cbf",
+              "document_type": "answer",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2024-11-05T00:01:02Z",
+              "schema_name": "answer",
+              "title": "Benefits calculators",
+              "web_url": "https://www.gov.uk/benefits-calculators",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-09-05T08:10:54Z",
+        "schema_name": "document_collection",
+        "title": "Universal Credit: information for landlords",
+        "web_url": "https://www.gov.uk/government/collections/universal-credit-information-for-landlords",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/government/collections/universal-credit-information-for-stakeholders-and-partners",
+        "api_url": "https://www.gov.uk/api/content/government/collections/universal-credit-information-for-stakeholders-and-partners",
+        "base_path": "/government/collections/universal-credit-information-for-stakeholders-and-partners",
+        "content_id": "a65ee7cf-7665-4741-834d-2d840871d279",
+        "document_type": "document_collection",
+        "links": {
+          "documents": [
+            {
+              "api_path": "/api/content/benefits-calculators",
+              "api_url": "https://www.gov.uk/api/content/benefits-calculators",
+              "base_path": "/benefits-calculators",
+              "content_id": "1a1bc147-c02b-4cad-a415-ccbcecec8cbf",
+              "document_type": "answer",
+              "links": {},
+              "locale": "en",
+              "public_updated_at": "2024-11-05T00:01:02Z",
+              "schema_name": "answer",
+              "title": "Benefits calculators",
+              "web_url": "https://www.gov.uk/benefits-calculators",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-08-12T14:29:09Z",
+        "schema_name": "document_collection",
+        "title": "Universal Credit: information for stakeholders and partners",
+        "web_url": "https://www.gov.uk/government/collections/universal-credit-information-for-stakeholders-and-partners",
+        "withdrawn": false
+      }
+    ],
+    "mainstream_browse_pages": [
+      {
+        "api_path": "/api/content/browse/benefits/families",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+        "base_path": "/browse/benefits/families",
+        "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+        "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-04-07T12:29:39Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support for families",
+        "web_url": "https://www.gov.uk/browse/benefits/families",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/help-for-carers",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+        "base_path": "/browse/benefits/help-for-carers",
+        "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+        "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2024-07-09T15:44:08Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're caring for someone",
+        "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/disability",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+        "base_path": "/browse/benefits/disability",
+        "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+        "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2025-05-15T13:44:43Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're disabled or have a health condition",
+        "web_url": "https://www.gov.uk/browse/benefits/disability",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/looking-for-work",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+        "base_path": "/browse/benefits/looking-for-work",
+        "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+        "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:43Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're looking for work",
+        "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/low-income",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+        "base_path": "/browse/benefits/low-income",
+        "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+        "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:01:44Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're on a low income",
+        "web_url": "https://www.gov.uk/browse/benefits/low-income",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/unable-to-work",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/unable-to-work",
+        "base_path": "/browse/benefits/unable-to-work",
+        "content_id": "5168d32c-b9a3-4421-b2af-f7f80416a15a",
+        "description": "Help if you’re unable to work because you’re ill or self-isolating. Includes Universal Credit and Employment and Support Allowance (ESA).",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2023-01-24T15:33:10Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support if you're temporarily unable to work",
+        "web_url": "https://www.gov.uk/browse/benefits/unable-to-work",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/benefits/bereavement",
+        "api_url": "https://www.gov.uk/api/content/browse/benefits/bereavement",
+        "base_path": "/browse/benefits/bereavement",
+        "content_id": "5b8812ae-5fbb-4cae-afa5-bcd2df99dbbe",
+        "description": "Help with costs and funeral expenses after someone has died. Includes Universal Credit.",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2022-12-21T09:00:25Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial support when someone dies",
+        "web_url": "https://www.gov.uk/browse/benefits/bereavement",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/browse/disabilities/benefits",
+        "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+        "base_path": "/browse/disabilities/benefits",
+        "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+        "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+        "document_type": "mainstream_browse_page",
+        "links": {},
+        "locale": "en",
+        "public_updated_at": "2015-06-24T13:56:50Z",
+        "schema_name": "mainstream_browse_page",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+        "withdrawn": false
+      }
+    ],
+    "ordered_related_items": [
+      {
+        "api_path": "/api/content/child-benefit",
+        "api_url": "https://www.gov.uk/api/content/child-benefit",
+        "base_path": "/child-benefit",
+        "content_id": "aed2cee3-7ca8-4f00-ab17-9193fff516ae",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-04-07T12:29:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/births-deaths-marriages/child-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages/child-benefit",
+              "base_path": "/browse/births-deaths-marriages/child-benefit",
+              "content_id": "998d8fca-0c10-4b47-a0c3-4507dae84d77",
+              "description": "Information about eligibility, claiming and when Child Benefit stops",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/births-deaths-marriages",
+                    "api_url": "https://www.gov.uk/api/content/browse/births-deaths-marriages",
+                    "base_path": "/browse/births-deaths-marriages",
+                    "content_id": "f5fe5c9e-e5f1-4b76-9b07-a0af649c440c",
+                    "description": "Parenting, civil partnerships, divorce and Lasting Power of Attorney",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:19:57Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Births, deaths, marriages and care",
+                    "web_url": "https://www.gov.uk/browse/births-deaths-marriages",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-10-14T14:09:32Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Child Benefit",
+              "web_url": "https://www.gov.uk/browse/births-deaths-marriages/child-benefit",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/childcare-parenting/financial-help-children",
+              "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting/financial-help-children",
+              "base_path": "/browse/childcare-parenting/financial-help-children",
+              "content_id": "e027612d-17f3-4183-ae8d-cde8f43dc471",
+              "description": "Includes help when having a baby or adopting, child benefit and tax credits, support for childcare",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/childcare-parenting",
+                    "api_url": "https://www.gov.uk/api/content/browse/childcare-parenting",
+                    "base_path": "/browse/childcare-parenting",
+                    "content_id": "451c8029-6fe3-41cf-80e8-717debd317bd",
+                    "description": "Includes giving birth, fostering, adopting, benefits for children, childcare and schools",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-15T11:40:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Childcare and parenting",
+                    "web_url": "https://www.gov.uk/browse/childcare-parenting",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-04-06T20:12:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Financial help if you have children",
+              "web_url": "https://www.gov.uk/browse/childcare-parenting/financial-help-children",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-11-22T11:57:33Z",
+        "schema_name": "guide",
+        "title": "Child Benefit",
+        "web_url": "https://www.gov.uk/child-benefit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/housing-benefit",
+        "api_url": "https://www.gov.uk/api/content/housing-benefit",
+        "base_path": "/housing-benefit",
+        "content_id": "a324ac01-b2da-4bd0-ad41-b33cb37754e8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/council-housing-association",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/council-housing-association",
+              "base_path": "/browse/housing-local-services/council-housing-association",
+              "content_id": "c0f8dcc8-3973-478d-a287-83c41afb21f2",
+              "description": "Includes Right to Buy, shared ownership, getting repairs and housing benefit",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-07-31T14:43:21Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Council housing and housing associations",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/council-housing-association",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/renting-property",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/renting-property",
+              "base_path": "/browse/housing-local-services/renting-property",
+              "content_id": "dc2e6e16-2ba2-45fe-8e26-d69f51094c4e",
+              "description": "Includes proving your right to rent with a share code or documents, tenancy agreements and deposits",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T15:07:40Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Renting a property",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/renting-property",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/housing-local-services/repossessions-evictions",
+              "api_url": "https://www.gov.uk/api/content/browse/housing-local-services/repossessions-evictions",
+              "base_path": "/browse/housing-local-services/repossessions-evictions",
+              "content_id": "d9944c93-da60-4b69-8109-2e26bf801e42",
+              "description": "Includes help with homelessness, evictions and squatting ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/housing-local-services",
+                    "api_url": "https://www.gov.uk/api/content/browse/housing-local-services",
+                    "base_path": "/browse/housing-local-services",
+                    "content_id": "61d038ad-ba54-40a1-b6ca-18b390138b41",
+                    "description": "Owning or renting and council services",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-31T14:36:03Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Housing and local services",
+                    "web_url": "https://www.gov.uk/browse/housing-local-services",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-29T14:51:54Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Repossessions, homelessness, emergency housing and evictions",
+              "web_url": "https://www.gov.uk/browse/housing-local-services/repossessions-evictions",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-10-17T14:05:33Z",
+        "schema_name": "guide",
+        "title": "Housing Benefit",
+        "web_url": "https://www.gov.uk/housing-benefit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/check-benefits-financial-support",
+        "api_url": "https://www.gov.uk/api/content/check-benefits-financial-support",
+        "base_path": "/check-benefits-financial-support",
+        "content_id": "2de3ab4d-e2af-4803-b2e4-9972da293b00",
+        "document_type": "smart_answer",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/families",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/families",
+              "base_path": "/browse/benefits/families",
+              "content_id": "64e7bfb6-5213-425b-9e44-5c7eca17ad75",
+              "description": "Help if you look after children or plan to have or adopt a child. Includes Child Benefit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-04-07T12:29:39Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support for families",
+              "web_url": "https://www.gov.uk/browse/benefits/families",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/help-for-carers",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+              "base_path": "/browse/benefits/help-for-carers",
+              "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+              "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T15:44:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're caring for someone",
+              "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-05-15T13:44:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/looking-for-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+              "base_path": "/browse/benefits/looking-for-work",
+              "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+              "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're looking for work",
+              "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/unable-to-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/unable-to-work",
+              "base_path": "/browse/benefits/unable-to-work",
+              "content_id": "5168d32c-b9a3-4421-b2af-f7f80416a15a",
+              "description": "Help if you’re unable to work because you’re ill or self-isolating. Includes Universal Credit and Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-01-24T15:33:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're temporarily unable to work",
+              "web_url": "https://www.gov.uk/browse/benefits/unable-to-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T14:03:53Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Caring for someone",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2022-06-20T08:41:20Z",
+        "schema_name": "smart_answer",
+        "title": "Check benefits and financial support you can get",
+        "web_url": "https://www.gov.uk/check-benefits-financial-support",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/employment-support-allowance",
+        "api_url": "https://www.gov.uk/api/content/employment-support-allowance",
+        "base_path": "/employment-support-allowance",
+        "content_id": "abc16763-56b6-4017-8c19-17e578de7a57",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/unable-to-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/unable-to-work",
+              "base_path": "/browse/benefits/unable-to-work",
+              "content_id": "5168d32c-b9a3-4421-b2af-f7f80416a15a",
+              "description": "Help if you’re unable to work because you’re ill or self-isolating. Includes Universal Credit and Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-01-24T15:33:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're temporarily unable to work",
+              "web_url": "https://www.gov.uk/browse/benefits/unable-to-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/disability",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/disability",
+              "base_path": "/browse/benefits/disability",
+              "content_id": "55137051-1759-4251-a94c-476239ddfb36",
+              "description": "Help if you're living with a health condition or disability. Includes Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2025-05-15T13:44:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're disabled or have a health condition",
+              "web_url": "https://www.gov.uk/browse/benefits/disability",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-12-10T11:36:25Z",
+        "schema_name": "guide",
+        "title": "Employment and Support Allowance (ESA)",
+        "web_url": "https://www.gov.uk/employment-support-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/jobseekers-allowance",
+        "api_url": "https://www.gov.uk/api/content/jobseekers-allowance",
+        "base_path": "/jobseekers-allowance",
+        "content_id": "122fdb0f-471c-4dcc-986b-8c3691ceacf8",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/looking-for-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+              "base_path": "/browse/benefits/looking-for-work",
+              "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+              "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're looking for work",
+              "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/finding-job",
+              "api_url": "https://www.gov.uk/api/content/browse/working/finding-job",
+              "base_path": "/browse/working/finding-job",
+              "content_id": "eceb3053-43d1-4a49-873d-85ff9ade7066",
+              "description": "Job search, Jobseeker's Allowance (JSA), job offers, right to work share codes, apprenticeships and volunteering",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2026-01-07T17:16:09Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Finding a job",
+              "web_url": "https://www.gov.uk/browse/working/finding-job",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2025-01-01T00:01:04Z",
+        "schema_name": "guide",
+        "title": "Jobseeker's Allowance (JSA)",
+        "web_url": "https://www.gov.uk/jobseekers-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/universal-credit",
+        "api_url": "https://www.gov.uk/api/content/universal-credit",
+        "base_path": "/universal-credit",
+        "content_id": "f790dc71-386e-4440-9689-31f94e7ac64d",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/help-for-carers",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/help-for-carers",
+              "base_path": "/browse/benefits/help-for-carers",
+              "content_id": "d35b8c98-7419-42f6-b7af-443e4f25edfc",
+              "description": "Help if you regularly spend time caring for someone. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T15:44:08Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're caring for someone",
+              "web_url": "https://www.gov.uk/browse/benefits/help-for-carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/looking-for-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/looking-for-work",
+              "base_path": "/browse/benefits/looking-for-work",
+              "content_id": "1c06c1a7-06f4-41f9-9b85-60d37a3f1a07",
+              "description": "Help if you're looking for a new job, are out of work or affected by redundancy. Includes Universal Credit and Jobseeker’s Allowance (JSA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:43Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're looking for work",
+              "web_url": "https://www.gov.uk/browse/benefits/looking-for-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/low-income",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/low-income",
+              "base_path": "/browse/benefits/low-income",
+              "content_id": "cb4c2480-73e8-4096-bc1e-4f5398063dfc",
+              "description": "Help with heating, housing and other living costs. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:01:44Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're on a low income",
+              "web_url": "https://www.gov.uk/browse/benefits/low-income",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/unable-to-work",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/unable-to-work",
+              "base_path": "/browse/benefits/unable-to-work",
+              "content_id": "5168d32c-b9a3-4421-b2af-f7f80416a15a",
+              "description": "Help if you’re unable to work because you’re ill or self-isolating. Includes Universal Credit and Employment and Support Allowance (ESA).",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-01-24T15:33:10Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support if you're temporarily unable to work",
+              "web_url": "https://www.gov.uk/browse/benefits/unable-to-work",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/benefits/bereavement",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/bereavement",
+              "base_path": "/browse/benefits/bereavement",
+              "content_id": "5b8812ae-5fbb-4cae-afa5-bcd2df99dbbe",
+              "description": "Help with costs and funeral expenses after someone has died. Includes Universal Credit.",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2022-12-21T09:00:25Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial support when someone dies",
+              "web_url": "https://www.gov.uk/browse/benefits/bereavement",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/benefits",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/benefits",
+              "base_path": "/browse/disabilities/benefits",
+              "content_id": "126f9803-4689-468f-b46e-552ce57e1ee4",
+              "description": "Includes Disability Living Allowance, Employment and Support Allowance and Attendance Allowance",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2015-06-24T13:56:50Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Benefits and financial help",
+              "web_url": "https://www.gov.uk/browse/disabilities/benefits",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/disabilities/carers",
+              "api_url": "https://www.gov.uk/api/content/browse/disabilities/carers",
+              "base_path": "/browse/disabilities/carers",
+              "content_id": "747191a7-f514-46d5-b107-dc65f4a3d547",
+              "description": "Includes benefits and financial support you can get, flexible working and helping someone with their benefit claim",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/disabilities",
+                    "api_url": "https://www.gov.uk/api/content/browse/disabilities",
+                    "base_path": "/browse/disabilities",
+                    "content_id": "77d72043-cbf7-42bf-8b61-e970d854acc4",
+                    "description": "Includes carers, your rights, benefits and the Equality Act",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-04-27T12:22:23Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Disabled people",
+                    "web_url": "https://www.gov.uk/browse/disabilities",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2024-07-09T14:03:53Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Caring for someone",
+              "web_url": "https://www.gov.uk/browse/disabilities/carers",
+              "withdrawn": false
+            },
+            {
+              "api_path": "/api/content/browse/working/finding-job",
+              "api_url": "https://www.gov.uk/api/content/browse/working/finding-job",
+              "base_path": "/browse/working/finding-job",
+              "content_id": "eceb3053-43d1-4a49-873d-85ff9ade7066",
+              "description": "Job search, Jobseeker's Allowance (JSA), job offers, right to work share codes, apprenticeships and volunteering",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/working",
+                    "api_url": "https://www.gov.uk/api/content/browse/working",
+                    "base_path": "/browse/working",
+                    "content_id": "a24f0662-bbfe-4b77-9ec0-e73240e88b9a",
+                    "description": "Includes holidays, finding a job and redundancy",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-07-09T12:54:10Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Working, jobs and pensions",
+                    "web_url": "https://www.gov.uk/browse/working",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2026-01-07T17:16:09Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Finding a job",
+              "web_url": "https://www.gov.uk/browse/working/finding-job",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-10-17T09:58:14Z",
+        "schema_name": "guide",
+        "title": "Universal Credit",
+        "web_url": "https://www.gov.uk/universal-credit",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/benefit-cap",
+        "api_url": "https://www.gov.uk/api/content/benefit-cap",
+        "base_path": "/benefit-cap",
+        "content_id": "4466597b-9531-4c2e-af89-2380f7ec5660",
+        "document_type": "guide",
+        "links": {
+          "mainstream_browse_pages": [
+            {
+              "api_path": "/api/content/browse/benefits/manage-your-benefit",
+              "api_url": "https://www.gov.uk/api/content/browse/benefits/manage-your-benefit",
+              "base_path": "/browse/benefits/manage-your-benefit",
+              "content_id": "d89b1fd0-6f3a-4675-a000-d2f0d9df21fa",
+              "description": "Sign in to your account, report changes, find out about overpayments, or appeal a decision. Includes existing Universal Credit and tax credits claims. ",
+              "document_type": "mainstream_browse_page",
+              "links": {
+                "parent": [
+                  {
+                    "api_path": "/api/content/browse/benefits",
+                    "api_url": "https://www.gov.uk/api/content/browse/benefits",
+                    "base_path": "/browse/benefits",
+                    "content_id": "f141fa95-0d79-4aed-8429-ed223a8f106a",
+                    "description": "Includes eligibility, appeals, tax credits and Universal Credit",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2018-05-16T16:12:49Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Benefits",
+                    "web_url": "https://www.gov.uk/browse/benefits",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "public_updated_at": "2023-08-01T14:45:34Z",
+              "schema_name": "mainstream_browse_page",
+              "title": "Manage an existing benefit, payment or claim",
+              "web_url": "https://www.gov.uk/browse/benefits/manage-your-benefit",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "public_updated_at": "2024-10-20T23:01:10Z",
+        "schema_name": "guide",
+        "title": "Benefit cap",
+        "web_url": "https://www.gov.uk/benefit-cap",
+        "withdrawn": false
+      }
+    ],
+    "organisations": [
+      {
+        "analytics_identifier": "D10",
+        "api_path": "/api/content/government/organisations/department-for-work-pensions",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/department-for-work-pensions",
+        "base_path": "/government/organisations/department-for-work-pensions",
+        "content_id": "b548a09f-8b35-4104-89f4-f1a40bf3136d",
+        "details": {
+          "acronym": "DWP",
+          "brand": "department-for-work-pensions",
+          "default_news_image": {
+            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/5a37dab1e5274a7908e35204/s960_dwp-caxton-house-logo-960.jpg",
+            "url": "https://assets.publishing.service.gov.uk/media/5a37dab040f0b649cfaf7b4b/s300_dwp-caxton-house-logo-960.jpg"
+          },
+          "logo": {
+            "crest": "single-identity",
+            "formatted_title": "Department<br/>for Work &amp; <br/>Pensions"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Department for Work and Pensions",
+        "web_url": "https://www.gov.uk/government/organisations/department-for-work-pensions",
+        "withdrawn": false
+      }
+    ],
+    "primary_publishing_organisation": [
+      {
+        "analytics_identifier": "OT1056",
+        "api_path": "/api/content/government/organisations/government-digital-service",
+        "api_url": "https://www.gov.uk/api/content/government/organisations/government-digital-service",
+        "base_path": "/government/organisations/government-digital-service",
+        "content_id": "af07d5a5-df63-4ddc-9383-6a666845ebe9",
+        "details": {
+          "acronym": "GDS",
+          "brand": "government-digital-service",
+          "default_news_image": null,
+          "logo": {
+            "crest": "gds",
+            "formatted_title": "Government<br/>Digital Service"
+          },
+          "organisation_govuk_status": {
+            "status": "live",
+            "updated_at": null,
+            "url": null
+          }
+        },
+        "document_type": "organisation",
+        "links": {},
+        "locale": "en",
+        "schema_name": "organisation",
+        "title": "Government Digital Service",
+        "web_url": "https://www.gov.uk/government/organisations/government-digital-service",
+        "withdrawn": false
+      }
+    ],
+    "taxons": [
+      {
+        "api_path": "/api/content/health-and-social-care/disabilities-benefits",
+        "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities-benefits",
+        "base_path": "/health-and-social-care/disabilities-benefits",
+        "content_id": "a1848bca-b5f7-4e72-8e88-63e2847d20d4",
+        "details": {
+          "internal_name": "Benefits and financial help [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/health-and-social-care/disabilities",
+              "api_url": "https://www.gov.uk/api/content/health-and-social-care/disabilities",
+              "base_path": "/health-and-social-care/disabilities",
+              "content_id": "d69977ab-4fb1-4ad6-b379-e967c5b7528b",
+              "details": {
+                "internal_name": "Disabled people [M]",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": false
+              },
+              "document_type": "taxon",
+              "links": {
+                "parent_taxons": [
+                  {
+                    "api_path": "/api/content/health-and-social-care",
+                    "api_url": "https://www.gov.uk/api/content/health-and-social-care",
+                    "base_path": "/health-and-social-care",
+                    "content_id": "8124ead8-8ebc-4faf-88ad-dd5cbcc92ba8",
+                    "description": "",
+                    "details": {
+                      "internal_name": "Health and social care",
+                      "notes_for_editors": "",
+                      "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                      "root_taxon": [
+                        {
+                          "api_path": "/api/content/",
+                          "api_url": "https://www.gov.uk/api/content/",
+                          "base_path": "/",
+                          "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                          "document_type": "homepage",
+                          "links": {},
+                          "locale": "en",
+                          "public_updated_at": "2023-06-28T09:32:34Z",
+                          "schema_name": "homepage",
+                          "title": "GOV.UK homepage",
+                          "web_url": "https://www.gov.uk/",
+                          "withdrawn": false
+                        }
+                      ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-09-16T20:30:51Z",
+                    "schema_name": "taxon",
+                    "title": "Health and social care",
+                    "web_url": "https://www.gov.uk/health-and-social-care",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-08-22T12:56:16Z",
+              "schema_name": "taxon",
+              "title": "Disabled people",
+              "web_url": "https://www.gov.uk/health-and-social-care/disabilities",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T12:56:16Z",
+        "schema_name": "taxon",
+        "title": "Benefits and financial help",
+        "web_url": "https://www.gov.uk/health-and-social-care/disabilities-benefits",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/entitlement",
+        "api_url": "https://www.gov.uk/api/content/welfare/entitlement",
+        "base_path": "/welfare/entitlement",
+        "content_id": "536f83c0-8c67-47a3-88a4-d5b1eda591ed",
+        "details": {
+          "internal_name": "Benefits entitlement [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:40Z",
+        "schema_name": "taxon",
+        "title": "Benefits entitlement",
+        "web_url": "https://www.gov.uk/welfare/entitlement",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/families",
+        "api_url": "https://www.gov.uk/api/content/welfare/families",
+        "base_path": "/welfare/families",
+        "content_id": "29dbee2a-5865-489b-860f-7eef54a5165a",
+        "details": {
+          "internal_name": "Benefits for families [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Benefits for families",
+        "web_url": "https://www.gov.uk/welfare/families",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/disability",
+        "api_url": "https://www.gov.uk/api/content/welfare/disability",
+        "base_path": "/welfare/disability",
+        "content_id": "05a9527b-e6e9-4a68-8dd7-7d84e6a24eef",
+        "details": {
+          "internal_name": "Carers and disability benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Carers and disability benefits",
+        "web_url": "https://www.gov.uk/welfare/disability",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/bereavement",
+        "api_url": "https://www.gov.uk/api/content/welfare/bereavement",
+        "base_path": "/welfare/bereavement",
+        "content_id": "ac7b8472-5d09-4679-9551-87847b0ac827",
+        "details": {
+          "internal_name": "Death and benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:39Z",
+        "schema_name": "taxon",
+        "title": "Death and benefits",
+        "web_url": "https://www.gov.uk/welfare/bereavement",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/jobseekers-allowance",
+        "api_url": "https://www.gov.uk/api/content/welfare/jobseekers-allowance",
+        "base_path": "/welfare/jobseekers-allowance",
+        "content_id": "2a1bd1b1-5025-4313-9e5b-8352dd46f1d6",
+        "details": {
+          "internal_name": "Jobseeker's Allowance and low income benefits [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:40Z",
+        "schema_name": "taxon",
+        "title": "Jobseeker's Allowance and low income benefits",
+        "web_url": "https://www.gov.uk/welfare/jobseekers-allowance",
+        "withdrawn": false
+      },
+      {
+        "api_path": "/api/content/welfare/universal-credit",
+        "api_url": "https://www.gov.uk/api/content/welfare/universal-credit",
+        "base_path": "/welfare/universal-credit",
+        "content_id": "62fcbba5-3a75-4d15-85a6-d8a80b03d57c",
+        "details": {
+          "internal_name": "Universal Credit [M]",
+          "notes_for_editors": "",
+          "visible_to_departmental_editors": false
+        },
+        "document_type": "taxon",
+        "links": {
+          "parent_taxons": [
+            {
+              "api_path": "/api/content/welfare",
+              "api_url": "https://www.gov.uk/api/content/welfare",
+              "base_path": "/welfare",
+              "content_id": "dded88e2-f92e-424f-b73e-6ad24a839c51",
+              "description": "",
+              "details": {
+                "internal_name": "Welfare",
+                "notes_for_editors": "",
+                "visible_to_departmental_editors": true
+              },
+              "document_type": "taxon",
+              "links": {
+                "root_taxon": [
+                  {
+                    "api_path": "/api/content/",
+                    "api_url": "https://www.gov.uk/api/content/",
+                    "base_path": "/",
+                    "content_id": "f3bbdec2-0e62-4520-a7fd-6ffd5d36e03a",
+                    "document_type": "homepage",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-28T09:32:34Z",
+                    "schema_name": "homepage",
+                    "title": "GOV.UK homepage",
+                    "web_url": "https://www.gov.uk/",
+                    "withdrawn": false
+                  }
+                ]
+              },
+              "locale": "en",
+              "phase": "live",
+              "public_updated_at": "2018-09-16T20:32:41Z",
+              "schema_name": "taxon",
+              "title": "Welfare",
+              "web_url": "https://www.gov.uk/welfare",
+              "withdrawn": false
+            }
+          ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2018-08-22T13:14:40Z",
+        "schema_name": "taxon",
+        "title": "Universal Credit",
+        "web_url": "https://www.gov.uk/welfare/universal-credit",
+        "withdrawn": false
+      }
+    ]
+  },
+  "locale": "en",
+  "phase": "live",
+  "public_updated_at": "2024-11-05T00:01:02+00:00",
+  "publishing_app": "publisher",
+  "publishing_request_id": "21-1770910747.303-10.13.22.14-2655",
+  "publishing_scheduled_at": null,
+  "rendering_app": "frontend",
+  "scheduled_publishing_delay_seconds": null,
+  "schema_name": "answer",
+  "title": "Benefits calculators",
+  "updated_at": "2026-02-12T15:39:08+00:00",
+  "withdrawn_notice": {}
+}

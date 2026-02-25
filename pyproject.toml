@@ -1,0 +1,43 @@
+[project]
+name = "rait"
+version = "0.1.0"
+description = "Data & Model Drift Monitoring for UK Public Sector RAG Chatbot"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # Core
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+
+    # Vector Store
+    "pinecone[grpc]>=5.0",
+
+    # LLM Client
+    "litellm>=1.40",
+    "openai>=1.30",
+
+    # NLP
+    "tiktoken>=0.7",
+    "textstat>=0.7",
+
+    # Statistical Computing
+    "numpy>=1.26",
+    "scipy>=1.12",
+    "pandas>=2.2",
+
+    # Dashboard (deferred but included for completeness)
+    "streamlit>=1.35",
+    "plotly>=5.22",
+    "matplotlib>=3.9",
+
+    # Export
+    "reportlab>=4.2",
+
+    # Testing
+    "pytest>=8.2",
+    "hypothesis>=6.100",
+
+    # Config & Environment
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+]

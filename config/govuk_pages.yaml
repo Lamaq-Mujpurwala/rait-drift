@@ -1,0 +1,91 @@
+# GOV.UK pages to ingest into the RAG corpus
+# Source: GOV.UK Content API (OGL v3.0)
+
+pages:
+  # ── Benefits — Universal Credit ──────────────────────────────────────────
+  - path: "universal-credit"
+    category: "universal_credit"
+  - path: "universal-credit/what-universal-credit-is"
+    category: "universal_credit"
+  - path: "apply-universal-credit"
+    category: "universal_credit"
+  - path: "universal-credit/how-youre-paid"
+    category: "universal_credit"
+  - path: "universal-credit/changes-of-circumstances"
+    category: "universal_credit"
+
+  # ── Benefits — Housing Benefit ───────────────────────────────────────────
+  - path: "housing-benefit"
+    category: "housing_benefit"
+  - path: "housing-benefit/what-youll-get"
+    category: "housing_benefit"
+
+  # ── Benefits — Council Tax ───────────────────────────────────────────────
+  - path: "council-tax"
+    category: "council_tax"
+  - path: "council-tax-bands"
+    category: "council_tax"
+  - path: "apply-council-tax-reduction"
+    category: "council_tax"
+  - path: "council-tax-appeals"
+    category: "council_tax"
+
+  # ── Benefits — Disability ────────────────────────────────────────────────
+  - path: "pip"
+    category: "disability_benefits"
+  - path: "pip/how-to-claim"
+    category: "disability_benefits"
+  - path: "attendance-allowance"
+    category: "disability_benefits"
+  - path: "disability-living-allowance-children"
+    category: "disability_benefits"
+  - path: "carers-allowance"
+    category: "disability_benefits"
+
+  # ── Housing — Council & social ───────────────────────────────────────────
+  - path: "council-housing"
+    category: "housing_benefit"
+  - path: "apply-for-council-housing"
+    category: "housing_benefit"
+  - path: "right-to-buy-buying-your-council-home"
+    category: "housing_benefit"
+
+  # ── Housing — Renting ────────────────────────────────────────────────────
+  - path: "private-renting"
+    category: "housing_benefit"
+
+  # ── Homelessness ─────────────────────────────────────────────────────────
+  - path: "homelessness-help-from-council"
+    category: "homelessness"
+  - path: "if-youre-homeless-at-risk-of-homelessness"
+    category: "homelessness"
+
+  # ── Local Services ───────────────────────────────────────────────────────
+  - path: "find-local-council"
+    category: "council_tax"
+  - path: "report-problem-council"
+    category: "council_tax"
+
+  # ── Cross-cutting Benefits ───────────────────────────────────────────────
+  - path: "benefits-calculators"
+    category: "universal_credit"
+  - path: "benefit-cap"
+    category: "universal_credit"
+  - path: "benefit-overpayments"
+    category: "universal_credit"
+  - path: "contact-jobcentre-plus"
+    category: "universal_credit"
+  - path: "budgeting-help-benefits"
+    category: "universal_credit"
+
+  # ── Pension / Retirement ─────────────────────────────────────────────────
+  - path: "state-pension"
+    category: "pension"
+  - path: "pension-credit"
+    category: "pension"
+  - path: "new-state-pension"
+    category: "pension"
+  - path: "deferring-state-pension"
+    category: "pension"
+  - path: "check-state-pension"
+    category: "pension"
