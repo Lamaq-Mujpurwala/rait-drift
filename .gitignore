@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
+.pytest_cache/
 
 # Environment secrets
 .env
@@ -28,5 +29,4 @@ Thumbs.db
 uv.lock
 
 images/
-docs/*.pdf
 docs/*.pdf
