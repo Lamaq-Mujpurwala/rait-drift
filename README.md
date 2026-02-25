@@ -108,6 +108,20 @@ python main.py test-cds          # CDS metric engine
 - **Rate limiter** with exponential backoff for Groq free-tier compliance (30 RPM)
 - **Topic-as-proxy** for protected characteristics in DDI (maps to Equality Act 2010 groups)
 
+## Documentation
+
+Detailed write-ups for every aspect of the system are in the [`docs/`](docs/) folder:
+
+| Document | What It Covers |
+|----------|---------------|
+| [Final Submission](docs/Final_Submission.md) | The main deliverable — Connect, Contextualise, Design & Justify (with formulas and confidence ratings), Operationalise |
+| [System Design](docs/System_Design_Document.md) | Full architecture, data flow, schema definitions, API contracts, and configuration reference |
+| [Metric Design](docs/Metric_Design_Document.md) | Deep dive into each metric's mathematical foundation, thresholds, and edge cases |
+| [Testing & Evaluation](docs/Testing_and_Evaluation.md) | Test strategy, coverage breakdown, known limitations, and evaluation results |
+| [Detect & Respond](docs/Detect_and_Respond.md) | How each metric maps to detection → alerting → response workflows |
+| [Foundational Drift Knowledge](docs/Foundational_Drift_Knowledge.md) | Background theory on data drift, model drift, and statistical methods used |
+| [GUI Playground Guide](docs/GUI_Playground_Guide.md) | Hands-on walkthrough of the Streamlit dashboard with sample queries and expected results |
+
 ## License
 
 Academic project — RAIT Intern Assessment 2026.
