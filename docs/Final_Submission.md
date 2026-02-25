@@ -4,6 +4,8 @@
 **Ethical Dimension:** Data & Model Drift  
 **Compliance Question:** How does the organisation detect and respond to changes in data or model behaviour over time to ensure the system remains valid, unbiased, and fit for purpose?  
 **Date:** 25 February 2026  
+**GitHub:** [github.com/Lamaq-Mujpurwala/rait-drift](https://github.com/Lamaq-Mujpurwala/rait-drift)  
+**Live Demo:** [lamaq-rait-drift-monitoring.hf.space](https://lamaq-rait-drift-monitoring.hf.space)
 
 ---
 
